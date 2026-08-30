@@ -13,7 +13,7 @@
   },
   "integration_baseline": {
     "artifact_id": "year12-textiles-integration-v1",
-    "sha256": "f224f84b1c00e7417da2bf7de96515b4d94af0e0a204bf507aa56151954c11a6"
+    "sha256": "4787f494565edb7df50cd0f0605b5df0e7b0e777eb1f35bbfde92585aae75a5b"
   },
   "syllabus_basis": {
     "title": "Textiles and Design Stage 6 Syllabus",
@@ -5209,7 +5209,7 @@
     },
     {
       "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Alignment-Manifest-v1.0.json",
-      "sha256": "4f95af5f5fd3021b21fa132833be3fdca17fecbacf390ebe2a46fcd65647904f"
+      "sha256": "7ade41507758e4a669e61fde5c17dd0693fc49c4b6b0dd35dcffa59c3791fbc3"
     },
     {
       "path": "Year-12-HSC-Textiles-and-Design-Site-Map-v1.0.json",

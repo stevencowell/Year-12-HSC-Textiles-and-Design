@@ -6,7 +6,7 @@
     "source_map_id": "year-12-hsc-textiles-and-design-source-map-v1",
     "source_map_sha256": "26838b0c2a3747bbf28d6fcd5e6ab6b86e9f6f7cf55ae0738665d62f680b48bd",
     "integration_baseline_id": "year12-textiles-integration-v1",
-    "integration_baseline_sha256": "f224f84b1c00e7417da2bf7de96515b4d94af0e0a204bf507aa56151954c11a6"
+    "integration_baseline_sha256": "4787f494565edb7df50cd0f0605b5df0e7b0e777eb1f35bbfde92585aae75a5b"
   },
   "course": {
     "title": "Year 12 HSC Textiles and Design",
@@ -66,7 +66,7 @@
     {
       "role": "alignment-manifest",
       "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Alignment-Manifest-v1.0.json",
-      "sha256": "4f95af5f5fd3021b21fa132833be3fdca17fecbacf390ebe2a46fcd65647904f"
+      "sha256": "7ade41507758e4a669e61fde5c17dd0693fc49c4b6b0dd35dcffa59c3791fbc3"
     },
     {
       "role": "site-map",

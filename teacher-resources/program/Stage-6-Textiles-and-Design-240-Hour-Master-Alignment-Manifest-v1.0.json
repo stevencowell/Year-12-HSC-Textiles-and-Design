@@ -278,7 +278,7 @@
       "id": "SRC-WWHS-SCOPE-2023-24",
       "title": "2023_2024_HSC_Scope_&_Sequence_Stage_6_Textiles_and_Design",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-SCOPE-2023-24",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-SCOPE-2023-24",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2023-12-11T23:55:02.455Z",
       "use": "newest WWHS topic sequence",
       "identity_revision_sha256": "15d4ab371b489d0db743e41e2bb12ead131a7aaa5967e2233fd31b904306dd19"
@@ -287,7 +287,7 @@
       "id": "SRC-WWHS-TERM1-2024",
       "title": "2024_Tm1_HSC_HSC Textiles and Design",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-TERM1-2024",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-TERM1-2024",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2023-12-11T23:43:59.661Z",
       "use": "Term 1 colouration, decoration, Hmong culture, MTP and HSC-question sequence",
       "identity_revision_sha256": "21657784e3a985a020b3935b3644af52ab39c32540577ad30760485b82e515e7"
@@ -296,7 +296,7 @@
       "id": "SRC-WWHS-TERM2-2024",
       "title": "2024_Tm2_HSC_HSC Textiles and Design",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-TERM2-2024",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-TERM2-2024",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2024-03-19T23:25:38.990Z",
       "use": "Term 2 innovations, end use, finishes, MTP milestones and Trial preparation",
       "identity_revision_sha256": "1a60c8ab677647472b4ee6deaba7497c496706b8938973e6525a7550c8ad3211"
@@ -305,7 +305,7 @@
       "id": "SRC-WWHS-TERM3-2024",
       "title": "2024_Term_3_Outline",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-TERM3-2024",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-TERM3-2024",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2024-06-26T20:59:19.016Z",
       "use": "Trial preparation, MTP completion, industry theory and HSC preparation",
       "identity_revision_sha256": "bd89824a53199e8977d230e3d7cd6d02828ef911375b59ec19932ca4bc9b2042"
@@ -314,7 +314,7 @@
       "id": "SRC-WWHS-PROGRAM-INTRO",
       "title": "WWHS_HSC_TEXTILES & DESIGN PROGRAM INTRODUCTION",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-PROGRAM-INTRO",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-PROGRAM-INTRO",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-05-14T22:43:28.092Z",
       "use": "WWHS programme rationale: discrete Areas of Study integrated through practical projects, visual and tactile learning, differentiation",
       "identity_revision_sha256": "f5854f66f5174093dcc71b73e4e28a027d488585112de84bebe7a161bd91a4fa"
@@ -323,7 +323,7 @@
       "id": "SRC-WWHS-MTP-PROGRAM",
       "title": "WWHS_MTP_PROGRAM",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-MTP-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-MTP-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-05-12T10:24:08.752Z",
       "use": "concurrent MTP sequence and integration through Terms 4 and 1 so Term 2 can focus on construction and supporting documentation",
       "identity_revision_sha256": "36b27a0e4a2f28f26f40de7bbd11ea784118b7b3af19226c9dcc088d81c6f677"
@@ -332,7 +332,7 @@
       "id": "SRC-WWHS-HISTORICAL-DESIGN-PROGRAM",
       "title": "WWHS_DESIGN_HISTORICAL DESIGN DEVELOPMENT_PROGRAM",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-HISTORICAL-DESIGN-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-HISTORICAL-DESIGN-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2023-10-10T23:02:46.794Z",
       "use": "historical design, Apparel overview and links from historical and social influences to MTP design",
       "identity_revision_sha256": "0b9173ac74b7ad3e3ff94516956230e5e3ae4bef5d5d292c9cabd65ebcc5a1a8"
@@ -341,7 +341,7 @@
       "id": "SRC-WWHS-COLOUR-PROGRAM",
       "title": "WWHS_DESIGN_ FABRIC COLOURATION AND DECORATION_PROGRAM",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-COLOUR-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-COLOUR-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-12-01T00:53:28.346Z",
       "use": "colour principles, printing, dyeing, appliqué, embroidery, controlled samples and evaluation",
       "identity_revision_sha256": "f9f531013bfa6aaf6b5f38d274f83e5e051612f03fd7b43a505350fb9b665aa5"
@@ -350,7 +350,7 @@
       "id": "SRC-WWHS-DESIGNER-PROGRAM",
       "title": "WWHS_DESIGN_CONTEMPORARY_DESIGNERS",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-DESIGNER-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-DESIGNER-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-06-22T05:55:43.495Z",
       "use": "designer inspiration, success factors and relationship with trends; Akira Isogawa as the WWHS case study",
       "identity_revision_sha256": "d01f009f1efefae6420362a0930f1a7ba84953c9b61aab3827fd83aa05f51162"
@@ -359,7 +359,7 @@
       "id": "SRC-WWHS-CULTURE-PROGRAM",
       "title": "WWHS_DESIGN_CULTURAL FACTORS THAT INFLUENCE DESIGN & DESIGNERS _PROGRAM",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-CULTURE-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-CULTURE-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-06-22T05:54:58.130Z",
       "use": "cultural factors and WWHS Hmong people of South-East Asia case study",
       "identity_revision_sha256": "acaad97f921fce9d7d7bdcb1b7aeb931a6e9cb96bb81a303835782e1dd471c4d"
@@ -368,7 +368,7 @@
       "id": "SRC-WWHS-INDUSTRY-PROGRAM",
       "title": "WWHS_HSC_ACTFAI_PROGRAM",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-INDUSTRY-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-INDUSTRY-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2021-09-01T00:44:02.202Z",
       "use": "appropriate technology, sustainability, legislation, current issues, globalisation, consumer demand, marketplace and product life cycle",
       "identity_revision_sha256": "7daf36ff80d7f949bc5e50306ec7aa7efde042aacfa2b2758a1f1e909e7c3139"
@@ -377,7 +377,7 @@
       "id": "SRC-WWHS-INNOVATIONS-PROGRAM",
       "title": "WWHS_PROPERTIES & PERFORMANCE OF TEXTILES_Innovations and emerging textile technologies_PROGRAM",
       "authority": "local-program",
-      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-INNOVATIONS-PROGRAM",
+      "location": "private-source:year-12-hsc-textiles-and-design/SRC-WWHS-INNOVATIONS-PROGRAM",
       "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2021-04-21T23:49:36.371Z",
       "use": "fibre, yarn and fabric innovations; machinery, seamless and decorative technologies; finishes and end uses",
       "identity_revision_sha256": "a843631dec2fc45d53d5a64e3d4e97f3a0998d8dcc0398e4a0ee7bb719916423"
@@ -410,7 +410,7 @@
       "id": "SRC-SOURCE-MAP",
       "title": "Year 12 Textiles and Design source map",
       "authority": "quality-reference",
-      "location": "_project/stage-01/source-map-v1.json",
+      "location": "private-source:year-12-hsc-textiles-and-design/source-map-v1.json",
       "revision": "SHA-256 26838b0c2a3747bbf28d6fcd5e6ab6b86e9f6f7cf55ae0738665d62f680b48bd",
       "use": "Authority, privacy, sequence and Teacher-to-confirm boundaries"
     }
