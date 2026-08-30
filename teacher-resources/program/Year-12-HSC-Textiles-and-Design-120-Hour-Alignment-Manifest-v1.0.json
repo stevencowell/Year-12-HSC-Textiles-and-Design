@@ -1,0 +1,4230 @@
+{
+  "schema_version": "1.1",
+  "program_id": "year-12-hsc-textiles-and-design-120-hour-programme",
+  "version": "1.0.0-current-contract",
+  "build_id": "year12-textiles-program-20260830-v1",
+  "generated_at": "2026-08-30",
+  "course": {
+    "title": "Year 12 HSC Textiles and Design",
+    "classification": "Board Developed Course, 2-unit HSC, non-VET",
+    "stage_or_year": "Stage 6 / Year 12 HSC",
+    "delivery_year": 2027,
+    "project": "One individual Major Textiles Project in an approved focus area; 2027 is a planning basis only and actual delivery remains Teacher to confirm"
+  },
+  "site": {
+    "name": "Year 12 HSC Textiles and Design",
+    "reference": "../../index.html",
+    "inspection_date": "2026-08-30",
+    "state": "local"
+  },
+  "syllabus": {
+    "title": "Textiles and Design Stage 6 Syllabus",
+    "version": "2013",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013",
+    "verified_date": "2026-08-30",
+    "mandatory_from": "Current controlling syllabus; replacement remains in development",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-current",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 30,
+    "period_minutes": 120,
+    "periods_per_fortnight": 4,
+    "total_periods": 60,
+    "representation": "Sixty two-hour equivalent planning periods; actual timetable and delivery year Teacher to confirm"
+  },
+  "area_hours": {
+    "Design": 24,
+    "Major Textiles Project": 60,
+    "Properties and Performance of Textiles": 24,
+    "Australian Textiles, Clothing, Footwear and Allied Industries": 12
+  },
+  "outcomes": [
+    {
+      "code": "H1.1",
+      "statement": "critically analyses and explains the factors that have contributed to the design and manufacture of the Major Textiles Project",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H1.2",
+      "statement": "designs a textile item or items that demonstrates an understanding of functional and aesthetic requirements",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H1.3",
+      "statement": "identifies the principles of colouration for specific end-uses",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H2.1",
+      "statement": "communicates design concepts and manufacturing specifications to both technical and non-technical audiences",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H2.2",
+      "statement": "demonstrates proficiency in the manufacture of a textile item or items",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H2.3",
+      "statement": "effectively manages the design and manufacture of a Major Textiles Project to completion",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H3.1",
+      "statement": "explains the interrelationship between fabric, yarn and fibre properties",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H3.2",
+      "statement": "develops knowledge and awareness of emerging textile technologies",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H4.1",
+      "statement": "justifies the selection of fabric, yarn, fibre and fabric finishing techniques for specific end-uses",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H4.2",
+      "statement": "selects and justifies manufacturing techniques, materials and equipment for a specific end-use",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H5.1",
+      "statement": "investigates and describes aspects of marketing in the textile industry",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H5.2",
+      "statement": "analyses and discusses the impact of current issues on the Australian textiles industry",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "H6.1",
+      "statement": "analyses the influence of historical, cultural and contemporary developments on textiles",
+      "source_id": "SRC-WWHS-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "SRC-WWHS-SYL-2013",
+      "title": "Textiles and Design Stage 6 Syllabus (2013)",
+      "authority": "official-syllabus",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013",
+      "revision": "Current controlling syllabus verified 2026-08-30",
+      "use": "course structure, content, outcomes and requirements",
+      "identity_revision_sha256": "01fc0026deeb6bb08cc799d7f0ef7c38f0cf8c0fb2b0f8f6a624355b23ead481"
+    },
+    {
+      "id": "SRC-WWHS-SCOPE-2023-24",
+      "title": "2023_2024_HSC_Scope_&_Sequence_Stage_6_Textiles_and_Design",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-SCOPE-2023-24",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2023-12-11T23:55:02.455Z",
+      "use": "newest WWHS topic sequence",
+      "identity_revision_sha256": "15d4ab371b489d0db743e41e2bb12ead131a7aaa5967e2233fd31b904306dd19"
+    },
+    {
+      "id": "SRC-WWHS-TERM1-2024",
+      "title": "2024_Tm1_HSC_HSC Textiles and Design",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-TERM1-2024",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2023-12-11T23:43:59.661Z",
+      "use": "Term 1 colouration, decoration, Hmong culture, MTP and HSC-question sequence",
+      "identity_revision_sha256": "21657784e3a985a020b3935b3644af52ab39c32540577ad30760485b82e515e7"
+    },
+    {
+      "id": "SRC-WWHS-TERM2-2024",
+      "title": "2024_Tm2_HSC_HSC Textiles and Design",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-TERM2-2024",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2024-03-19T23:25:38.990Z",
+      "use": "Term 2 innovations, end use, finishes, MTP milestones and Trial preparation",
+      "identity_revision_sha256": "1a60c8ab677647472b4ee6deaba7497c496706b8938973e6525a7550c8ad3211"
+    },
+    {
+      "id": "SRC-WWHS-TERM3-2024",
+      "title": "2024_Term_3_Outline",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-TERM3-2024",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2024-06-26T20:59:19.016Z",
+      "use": "Trial preparation, MTP completion, industry theory and HSC preparation",
+      "identity_revision_sha256": "bd89824a53199e8977d230e3d7cd6d02828ef911375b59ec19932ca4bc9b2042"
+    },
+    {
+      "id": "SRC-WWHS-PROGRAM-INTRO",
+      "title": "WWHS_HSC_TEXTILES & DESIGN PROGRAM INTRODUCTION",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-PROGRAM-INTRO",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-05-14T22:43:28.092Z",
+      "use": "WWHS programme rationale: discrete Areas of Study integrated through practical projects, visual and tactile learning, differentiation",
+      "identity_revision_sha256": "f5854f66f5174093dcc71b73e4e28a027d488585112de84bebe7a161bd91a4fa"
+    },
+    {
+      "id": "SRC-WWHS-MTP-PROGRAM",
+      "title": "WWHS_MTP_PROGRAM",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-MTP-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-05-12T10:24:08.752Z",
+      "use": "concurrent MTP sequence and integration through Terms 4 and 1 so Term 2 can focus on construction and supporting documentation",
+      "identity_revision_sha256": "36b27a0e4a2f28f26f40de7bbd11ea784118b7b3af19226c9dcc088d81c6f677"
+    },
+    {
+      "id": "SRC-WWHS-HISTORICAL-DESIGN-PROGRAM",
+      "title": "WWHS_DESIGN_HISTORICAL DESIGN DEVELOPMENT_PROGRAM",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-HISTORICAL-DESIGN-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2023-10-10T23:02:46.794Z",
+      "use": "historical design, Apparel overview and links from historical and social influences to MTP design",
+      "identity_revision_sha256": "0b9173ac74b7ad3e3ff94516956230e5e3ae4bef5d5d292c9cabd65ebcc5a1a8"
+    },
+    {
+      "id": "SRC-WWHS-COLOUR-PROGRAM",
+      "title": "WWHS_DESIGN_ FABRIC COLOURATION AND DECORATION_PROGRAM",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-COLOUR-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-12-01T00:53:28.346Z",
+      "use": "colour principles, printing, dyeing, appliqué, embroidery, controlled samples and evaluation",
+      "identity_revision_sha256": "f9f531013bfa6aaf6b5f38d274f83e5e051612f03fd7b43a505350fb9b665aa5"
+    },
+    {
+      "id": "SRC-WWHS-DESIGNER-PROGRAM",
+      "title": "WWHS_DESIGN_CONTEMPORARY_DESIGNERS",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-DESIGNER-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-06-22T05:55:43.495Z",
+      "use": "designer inspiration, success factors and relationship with trends; Akira Isogawa as the WWHS case study",
+      "identity_revision_sha256": "d01f009f1efefae6420362a0930f1a7ba84953c9b61aab3827fd83aa05f51162"
+    },
+    {
+      "id": "SRC-WWHS-CULTURE-PROGRAM",
+      "title": "WWHS_DESIGN_CULTURAL FACTORS THAT INFLUENCE DESIGN & DESIGNERS _PROGRAM",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-CULTURE-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2020-06-22T05:54:58.130Z",
+      "use": "cultural factors and WWHS Hmong people of South-East Asia case study",
+      "identity_revision_sha256": "acaad97f921fce9d7d7bdcb1b7aeb931a6e9cb96bb81a303835782e1dd471c4d"
+    },
+    {
+      "id": "SRC-WWHS-INDUSTRY-PROGRAM",
+      "title": "WWHS_HSC_ACTFAI_PROGRAM",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-INDUSTRY-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2021-09-01T00:44:02.202Z",
+      "use": "appropriate technology, sustainability, legislation, current issues, globalisation, consumer demand, marketplace and product life cycle",
+      "identity_revision_sha256": "7daf36ff80d7f949bc5e50306ec7aa7efde042aacfa2b2758a1f1e909e7c3139"
+    },
+    {
+      "id": "SRC-WWHS-INNOVATIONS-PROGRAM",
+      "title": "WWHS_PROPERTIES & PERFORMANCE OF TEXTILES_Innovations and emerging textile technologies_PROGRAM",
+      "authority": "local-program",
+      "location": "_project/stage-01/source-map-v1.json#SRC-WWHS-INNOVATIONS-PROGRAM",
+      "revision": "Authorised Classroom/Drive identity verified 2026-08-30; 2021-04-21T23:49:36.371Z",
+      "use": "fibre, yarn and fabric innovations; machinery, seamless and decorative technologies; finishes and end uses",
+      "identity_revision_sha256": "a843631dec2fc45d53d5a64e3d4e97f3a0998d8dcc0398e4a0ee7bb719916423"
+    },
+    {
+      "id": "SRC-NESA-ASSESSMENT-2013",
+      "title": "Textiles and Design Stage 6 assessment and reporting",
+      "authority": "assessment",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013/assessment-and-reporting",
+      "revision": "Official page verified 2026-08-30",
+      "use": "Official assessment and reporting boundary; local notifications remain Teacher to confirm"
+    },
+    {
+      "id": "SRC-NESA-MTP-2013",
+      "title": "Textiles and Design Major Textiles Project",
+      "authority": "assessment",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013/major-textiles-project",
+      "revision": "Official page verified 2026-08-30",
+      "use": "Official Major Textiles Project boundary; local logistics remain Teacher to confirm"
+    },
+    {
+      "id": "SRC-SITE-COURSE-CONTENT",
+      "title": "Integrated Year 12 course content",
+      "authority": "website",
+      "location": "course-content.js",
+      "revision": "Integrated candidate SHA-256 f54dcb5f05eeca6df4c6a5464bb0e84f9114cd574eb36829690ec7b6e4927d23",
+      "use": "Exact 15-module, 45-section learning inventory, knowledge checks and response evidence"
+    },
+    {
+      "id": "SRC-SOURCE-MAP",
+      "title": "Year 12 Textiles and Design source map",
+      "authority": "quality-reference",
+      "location": "_project/stage-01/source-map-v1.json",
+      "revision": "SHA-256 26838b0c2a3747bbf28d6fcd5e6ab6b86e9f6f7cf55ae0738665d62f680b48bd",
+      "use": "Authority, privacy, sequence and Teacher-to-confirm boundaries"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "m01s01",
+      "route": "modules/module-01.html#m01s01-theory",
+      "theory_section": "The HSC course map and two-year bridge",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01s02",
+      "route": "modules/module-01.html#m01s02-theory",
+      "theory_section": "MTP focus areas, requirements and evidence",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01s03",
+      "route": "modules/module-01.html#m01s03-theory",
+      "theory_section": "From design inspiration to a workable brief",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02s01",
+      "route": "modules/module-02.html#m02s01-theory",
+      "theory_section": "Tracing one focus area over time",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        5
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02s02",
+      "route": "modules/module-02.html#m02s02-theory",
+      "theory_section": "Factors that shape design change",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02s03",
+      "route": "modules/module-02.html#m02s03-theory",
+      "theory_section": "Turning historical evidence into analysis",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03s01",
+      "route": "modules/module-03.html#m03s01-theory",
+      "theory_section": "Designer practice, inspiration and signature",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        9
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03s02",
+      "route": "modules/module-03.html#m03s02-theory",
+      "theory_section": "Internal and external success factors",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        10
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03s03",
+      "route": "modules/module-03.html#m03s03-theory",
+      "theory_section": "The relationship between designers and trends",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04s01",
+      "route": "modules/module-04.html#m04s01-theory",
+      "theory_section": "Colour principles for a specific end use",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04s02",
+      "route": "modules/module-04.html#m04s02-theory",
+      "theory_section": "Printing and dyeing processes",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04s03",
+      "route": "modules/module-04.html#m04s03-theory",
+      "theory_section": "Planning controlled colouration evidence",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        15
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05s01",
+      "route": "modules/module-05.html#m05s01-theory",
+      "theory_section": "Appliqué, embroidery and surface decoration",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05s02",
+      "route": "modules/module-05.html#m05s02-theory",
+      "theory_section": "Hand and machine technique decisions",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05s03",
+      "route": "modules/module-05.html#m05s03-theory",
+      "theory_section": "Comparing and evaluating samples",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        20
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06s01",
+      "route": "modules/module-06.html#m06s01-theory",
+      "theory_section": "Cultural context and respectful evidence",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        21
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06s02",
+      "route": "modules/module-06.html#m06s02-theory",
+      "theory_section": "Meanings, resources, skills and processes",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        22
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06s03",
+      "route": "modules/module-06.html#m06s03-theory",
+      "theory_section": "Design influence without appropriation",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07s01",
+      "route": "modules/module-07.html#m07s01-theory",
+      "theory_section": "Generating ideas and choosing a final direction",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        25
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07s02",
+      "route": "modules/module-07.html#m07s02-theory",
+      "theory_section": "Functional and aesthetic analysis",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        26
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07s03",
+      "route": "modules/module-07.html#m07s03-theory",
+      "theory_section": "Drawings, specifications and time planning",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        27
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08s01",
+      "route": "modules/module-08.html#m08s01-theory",
+      "theory_section": "Building a fair and useful investigation",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        29
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08s02",
+      "route": "modules/module-08.html#m08s02-theory",
+      "theory_section": "Recording samples, observations and results",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        30
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08s03",
+      "route": "modules/module-08.html#m08s03-theory",
+      "theory_section": "Evaluation and justified design change",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        31
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09s01",
+      "route": "modules/module-09.html#m09s01-theory",
+      "theory_section": "Innovation definitions, needs and drivers",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        33
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09s02",
+      "route": "modules/module-09.html#m09s02-theory",
+      "theory_section": "Emerging fibres, yarns and fabrics",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        34
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09s03",
+      "route": "modules/module-09.html#m09s03-theory",
+      "theory_section": "Product, process and societal impacts",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        35
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10s01",
+      "route": "modules/module-10.html#m10s01-theory",
+      "theory_section": "Microfibres, bicomponent yarns and washable webs",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        37
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10s02",
+      "route": "modules/module-10.html#m10s02-theory",
+      "theory_section": "Revising structure–property relationships",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        38
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10s03",
+      "route": "modules/module-10.html#m10s03-theory",
+      "theory_section": "Selecting performance for end use",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        39
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11s01",
+      "route": "modules/module-11.html#m11s01-theory",
+      "theory_section": "Machinery and production technologies",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        41
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11s02",
+      "route": "modules/module-11.html#m11s02-theory",
+      "theory_section": "Seamless technology and construction change",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        42
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11s03",
+      "route": "modules/module-11.html#m11s03-theory",
+      "theory_section": "Decorative enhancement, efficiency and quality",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        43
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12s01",
+      "route": "modules/module-12.html#m12s01-theory",
+      "theory_section": "Defining end-use requirements",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        45
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12s02",
+      "route": "modules/module-12.html#m12s02-theory",
+      "theory_section": "Finishes, performance and care",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        46
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12s03",
+      "route": "modules/module-12.html#m12s03-theory",
+      "theory_section": "Evidence-based fibre, yarn and fabric justification",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        47
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13s01",
+      "route": "modules/module-13.html#m13s01-theory",
+      "theory_section": "Industry sectors and supply relationships",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        49
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13s02",
+      "route": "modules/module-13.html#m13s02-theory",
+      "theory_section": "Marketplace, product development and marketing",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        50
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13s03",
+      "route": "modules/module-13.html#m13s03-theory",
+      "theory_section": "Workplace, consumer and global links",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        51
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14s01",
+      "route": "modules/module-14.html#m14s01-theory",
+      "theory_section": "Appropriate textile technology",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        53
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14s02",
+      "route": "modules/module-14.html#m14s02-theory",
+      "theory_section": "Environmental sustainability across a product life cycle",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        54
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14s03",
+      "route": "modules/module-14.html#m14s03-theory",
+      "theory_section": "Analysing social, consumer and industry issues",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        55
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15s01",
+      "route": "modules/module-15.html#m15s01-theory",
+      "theory_section": "MTP completion and evidence handoff",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        57
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15s02",
+      "route": "modules/module-15.html#m15s02-theory",
+      "theory_section": "Command terms and response planning",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        58
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15s03",
+      "route": "modules/module-15.html#m15s03-theory",
+      "theory_section": "Whole-course synthesis and revision",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        59
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "module_id": "m01",
+      "module_title": "HSC Transition and MTP Launch",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Course map and two-year bridge",
+      "student_work": "Use Module 1 to distinguish Preliminary foundations from HSC applications. Students map the four HSC components and write one personal retrieval priority.",
+      "syllabus_content": [
+        "HSC course structure; continuity from Preliminary Design, Properties and industry learning; the MTP as a distinct HSC requirement."
+      ],
+      "evidence": "Saved bridge map and retrieval note; H1.1, H2.3",
+      "outcome_codes": [
+        "H1.1",
+        "H2.3"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-01.html#m01s01-theory",
+        "folio.html#folio-01"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m01s01"
+      ]
+    },
+    {
+      "number": 2,
+      "module_id": "m01",
+      "module_title": "HSC Transition and MTP Launch",
+      "term": "Term 4",
+      "type": "Project/folio",
+      "focus": "MTP focus areas and evidence boundary",
+      "student_work": "Teach the five focus areas and the relationship between the textile item or items and supporting documentation. Students record a provisional focus area and questions for teacher approval.",
+      "syllabus_content": [
+        "Individual MTP in apparel, furnishings, costume, textile arts or non-apparel; design, manufacture and management evidence."
+      ],
+      "evidence": "Provisional focus-area record and approval questions; H1.1, H2.3",
+      "outcome_codes": [
+        "H1.1",
+        "H2.3"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-01.html#m01s02-theory",
+        "folio.html#folio-02"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m01s02"
+      ]
+    },
+    {
+      "number": 3,
+      "module_id": "m01",
+      "module_title": "HSC Transition and MTP Launch",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "From inspiration to a workable brief",
+      "student_work": "Model the difference between inspiration, a design need and a workable brief. Students test one concept against user, purpose, context, resources and time.",
+      "syllabus_content": [
+        "Relationship of inspiration to MTP design; functional and aesthetic requirements; feasible project planning."
+      ],
+      "evidence": "Draft brief with functional/aesthetic requirements; H1.2, H2.1",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-01.html#m01s03-theory",
+        "folio.html#folio-02"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m01s03"
+      ]
+    },
+    {
+      "number": 4,
+      "module_id": "m01",
+      "module_title": "HSC Transition and MTP Launch",
+      "term": "Term 4",
+      "type": "Project/folio",
+      "focus": "Concept checkpoint and next actions",
+      "student_work": "Students collate authorised initial evidence, identify gaps and create a bounded next-action plan. Teacher approval, equipment access and local WHS controls remain explicit checkpoints.",
+      "syllabus_content": [
+        "Management of design and manufacture; communication of initial concepts; local project approval boundaries."
+      ],
+      "evidence": "Initial evidence inventory and next-action plan; H2.1, H2.3",
+      "outcome_codes": [
+        "H2.1",
+        "H2.3"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-01.html",
+        "folio.html#folio-02"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "module_id": "m02",
+      "module_title": "Historical Design Development",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Tracing one focus area over time",
+      "student_work": "Teach students to build a selective historical timeline using dated, attributable evidence rather than a list of fashions. Compare changes in silhouette, materials, manufacture and use.",
+      "syllabus_content": [
+        "Historical design development within one focus area; evidence of change over time."
+      ],
+      "evidence": "Annotated evidence timeline; H6.1",
+      "outcome_codes": [
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-02.html#m02s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m02s01"
+      ]
+    },
+    {
+      "number": 6,
+      "module_id": "m02",
+      "module_title": "Historical Design Development",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Factors shaping design change",
+      "student_work": "Model a cause-and-effect chain linking social, economic, technological, political and cultural factors to specific design decisions.",
+      "syllabus_content": [
+        "Factors contributing to historical textile design and manufacture; influence on design development."
+      ],
+      "evidence": "Supported cause-and-effect chain; H6.1",
+      "outcome_codes": [
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-02.html#m02s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m02s02"
+      ]
+    },
+    {
+      "number": 7,
+      "module_id": "m02",
+      "module_title": "Historical Design Development",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Turning evidence into analysis",
+      "student_work": "Students move from description to analysis by connecting a source, a design feature, the factor that shaped it and its consequence. They identify one defensible influence for their own project.",
+      "syllabus_content": [
+        "Analysis of historical developments; application of influence to MTP design reasoning."
+      ],
+      "evidence": "One structured historical analysis and MTP influence note; H1.1, H6.1",
+      "outcome_codes": [
+        "H1.1",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-02.html#m02s03-theory",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m02s03"
+      ]
+    },
+    {
+      "number": 8,
+      "module_id": "m02",
+      "module_title": "Historical Design Development",
+      "term": "Term 4",
+      "type": "Project/folio",
+      "focus": "Historical influence translated, not copied",
+      "student_work": "Students document how a historical influence changes function, form, material or construction in their concept. They distinguish transformation from superficial copying.",
+      "syllabus_content": [
+        "Historical influence on the design and manufacture of the MTP; communication of design development."
+      ],
+      "evidence": "Before/after concept annotation; H1.1, H1.2, H2.1",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-02.html",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 9,
+      "module_id": "m03",
+      "module_title": "Contemporary Designers and Trends",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Designer practice, inspiration and signature",
+      "student_work": "Investigate the current teacher-selected designer or approved WWHS case study. Students separate observable design characteristics from unsupported claims about intention.",
+      "syllabus_content": [
+        "Contemporary designer practice, sources of inspiration and distinguishing design characteristics."
+      ],
+      "evidence": "Sourced designer profile; H6.1",
+      "outcome_codes": [
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-03.html#m03s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m03s01"
+      ]
+    },
+    {
+      "number": 10,
+      "module_id": "m03",
+      "module_title": "Contemporary Designers and Trends",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Internal and external success factors",
+      "student_work": "Classify factors within and beyond a designer's organisation, then evaluate how two factors affect design, production or market success.",
+      "syllabus_content": [
+        "Internal and external factors contributing to the success of a contemporary designer."
+      ],
+      "evidence": "Two-factor evaluation; H5.1, H6.1",
+      "outcome_codes": [
+        "H5.1",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-03.html#m03s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m03s02"
+      ]
+    },
+    {
+      "number": 11,
+      "module_id": "m03",
+      "module_title": "Contemporary Designers and Trends",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Designers and trends",
+      "student_work": "Use dated examples to test whether a designer follows, adapts or shapes a trend. Students identify one contemporary influence that can be justified in their MTP rather than merely named.",
+      "syllabus_content": [
+        "Relationship between contemporary designers and trends; application to personal design development."
+      ],
+      "evidence": "Trend relationship paragraph and MTP influence record; H1.1, H6.1",
+      "outcome_codes": [
+        "H1.1",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-03.html#m03s03-theory",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m03s03"
+      ]
+    },
+    {
+      "number": 12,
+      "module_id": "m03",
+      "module_title": "Contemporary Designers and Trends",
+      "term": "Term 4",
+      "type": "Project/folio",
+      "focus": "Contemporary influence and concept refinement",
+      "student_work": "Students refine one concept through a contemporary influence while retaining their own brief, user and purpose. Record the design decision and the evidence supporting it.",
+      "syllabus_content": [
+        "Factors contributing to MTP design; visual development and communication of concepts."
+      ],
+      "evidence": "Refined concept plus evidence-based annotation; H1.1, H1.2, H2.1",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-03.html",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 13,
+      "module_id": "m04",
+      "module_title": "Colour Principles and Fabric Colouration",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Colour principles for specific end use",
+      "student_work": "Retrieve colour relationships, contrast, harmony, value and intensity. Students justify a colour direction by linking visual effect, user, function and context.",
+      "syllabus_content": [
+        "Principles of colouration and selection of colour for specific end uses."
+      ],
+      "evidence": "End-use colour rationale; H1.3",
+      "outcome_codes": [
+        "H1.3"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-04.html#m04s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m04s01"
+      ]
+    },
+    {
+      "number": 14,
+      "module_id": "m04",
+      "module_title": "Colour Principles and Fabric Colouration",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Printing and dyeing processes",
+      "student_work": "Compare selected printing and dyeing processes by where colour is applied, the required control and the likely result. Local chemical, equipment and WHS procedures are teacher-directed.",
+      "syllabus_content": [
+        "Principles and processes of fabric colouration through printing and dyeing."
+      ],
+      "evidence": "Process comparison with end-use judgement; H1.3, H4.2",
+      "outcome_codes": [
+        "H1.3",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-04.html#m04s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m04s02"
+      ]
+    },
+    {
+      "number": 15,
+      "module_id": "m04",
+      "module_title": "Colour Principles and Fabric Colouration",
+      "term": "Term 4",
+      "type": "Site/theory",
+      "focus": "Planning controlled colouration evidence",
+      "student_work": "Model a fair sample plan with one purposeful variable, consistent controls, labelled observations and an end-use criterion. Students draft a teacher-approvable method.",
+      "syllabus_content": [
+        "Experimentation with colouration methods; selection for a specific end use."
+      ],
+      "evidence": "Approved sample plan and predicted criterion; H1.3, H4.2",
+      "outcome_codes": [
+        "H1.3",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-04.html#m04s03-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m04s03"
+      ]
+    },
+    {
+      "number": 16,
+      "module_id": "m04",
+      "module_title": "Colour Principles and Fabric Colouration",
+      "term": "Term 4",
+      "type": "Practical",
+      "focus": "Authorised colour sample and decision",
+      "student_work": "Under teacher direction, students produce or analyse an authorised colouration sample, record actual evidence and decide whether it suits the MTP. No site instruction substitutes for local WHS controls.",
+      "syllabus_content": [
+        "Application and evaluation of colouration in the design and manufacture of the MTP."
+      ],
+      "evidence": "Labelled sample, observation and justified decision; H1.3, H4.2",
+      "outcome_codes": [
+        "H1.3",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-04.html",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 17,
+      "module_id": "m05",
+      "module_title": "Decoration Techniques and Sampling",
+      "term": "Term 1",
+      "type": "Site/theory",
+      "focus": "Applique, embroidery and surface decoration",
+      "student_work": "Compare how selected decoration techniques attach, build or alter a surface. Link visual effect and structural consequence to the intended end use.",
+      "syllabus_content": [
+        "Principles and use of applique, embroidery and other surface-decoration processes."
+      ],
+      "evidence": "Technique-to-effect comparison; H4.2",
+      "outcome_codes": [
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-05.html#m05s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m05s01"
+      ]
+    },
+    {
+      "number": 18,
+      "module_id": "m05",
+      "module_title": "Decoration Techniques and Sampling",
+      "term": "Term 1",
+      "type": "Site/theory",
+      "focus": "Hand and machine technique decisions",
+      "student_work": "Students analyse accuracy, control, repeatability, time, equipment and surface effect to choose between hand and machine approaches for a defined purpose.",
+      "syllabus_content": [
+        "Selection of decoration techniques, materials and equipment for a specific end use."
+      ],
+      "evidence": "Decision matrix and written justification; H4.2",
+      "outcome_codes": [
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-05.html#m05s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m05s02"
+      ]
+    },
+    {
+      "number": 19,
+      "module_id": "m05",
+      "module_title": "Decoration Techniques and Sampling",
+      "term": "Term 1",
+      "type": "Practical",
+      "focus": "Authorised decoration sampling",
+      "student_work": "Students follow the teacher-approved process, make comparable samples and record material, setting, sequence and observed result. Equipment access and WHS remain local teacher controls.",
+      "syllabus_content": [
+        "Experimentation and proficiency in manufacturing techniques relevant to the MTP."
+      ],
+      "evidence": "Labelled samples and process record; H2.2, H4.2",
+      "outcome_codes": [
+        "H2.2",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-05.html",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 20,
+      "module_id": "m05",
+      "module_title": "Decoration Techniques and Sampling",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Comparing samples and selecting a method",
+      "student_work": "Use functional, aesthetic and production criteria to compare samples. Students retain rejected evidence and justify the selected or revised technique.",
+      "syllabus_content": [
+        "Evaluation of techniques and materials for MTP design and manufacture."
+      ],
+      "evidence": "Comparative evaluation and MTP technique decision; H1.1, H4.2",
+      "outcome_codes": [
+        "H1.1",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-05.html#m05s03-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m05s03"
+      ]
+    },
+    {
+      "number": 21,
+      "module_id": "m06",
+      "module_title": "Cultural Influences: Hmong Textile Traditions",
+      "term": "Term 1",
+      "type": "Site/theory",
+      "focus": "Cultural context and respectful evidence",
+      "student_work": "Introduce the WWHS Hmong culture study through sourced context and careful language. Students distinguish evidence, inference and generalisation, recognising diversity within communities.",
+      "syllabus_content": [
+        "Cultural factors influencing textile design and production; textiles as forms of cultural expression."
+      ],
+      "evidence": "Source-quality and respectful-language check; H6.1",
+      "outcome_codes": [
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-06.html#m06s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m06s01"
+      ]
+    },
+    {
+      "number": 22,
+      "module_id": "m06",
+      "module_title": "Cultural Influences: Hmong Textile Traditions",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Meanings, resources, skills and processes",
+      "student_work": "Students examine how location, available resources, skill, social context and processes can shape textile production. They record what is known and what must not be assumed.",
+      "syllabus_content": [
+        "Relationship of cultural context, resources, skills and production processes to textile forms."
+      ],
+      "evidence": "Evidence map with uncertainty labels; H1.1, H6.1",
+      "outcome_codes": [
+        "H1.1",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-06.html#m06s02-theory",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m06s02"
+      ]
+    },
+    {
+      "number": 23,
+      "module_id": "m06",
+      "module_title": "Cultural Influences: Hmong Textile Traditions",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Influence without appropriation",
+      "student_work": "Model respectful influence through transferable design principles such as labour, layering, contrast or narrative structure—not copying culturally significant motifs. Students test one concept against this boundary.",
+      "syllabus_content": [
+        "Cultural influence on design; ethical and respectful development of an individual MTP."
+      ],
+      "evidence": "Respectful-influence rationale and revised concept; H1.1, H1.2, H6.1",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-06.html#m06s03-theory",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m06s03"
+      ]
+    },
+    {
+      "number": 24,
+      "module_id": "m06",
+      "module_title": "Cultural Influences: Hmong Textile Traditions",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Cultural evidence checkpoint",
+      "student_work": "Students audit citations, image permissions, captions and wording in their influence evidence. Unsupported cultural claims are removed or marked for teacher confirmation.",
+      "syllabus_content": [
+        "Communication and management of source-grounded MTP design development."
+      ],
+      "evidence": "Cultural-evidence audit and next action; H2.1, H2.3, H6.1",
+      "outcome_codes": [
+        "H2.1",
+        "H2.3",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-06.html",
+        "folio.html#folio-03"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-05"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 25,
+      "module_id": "m07",
+      "module_title": "MTP Design Development",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Generating ideas and selecting a direction",
+      "student_work": "Generate meaningfully different ideas from the brief, then use explicit functional, aesthetic and feasibility criteria to select and defend a final direction.",
+      "syllabus_content": [
+        "Visual design development, creativity and innovation in the MTP."
+      ],
+      "evidence": "Idea range, selection matrix and decision; H1.1, H1.2, H2.1",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-07.html#m07s01-theory",
+        "folio.html#folio-04"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m07s01"
+      ]
+    },
+    {
+      "number": 26,
+      "module_id": "m07",
+      "module_title": "MTP Design Development",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Functional and aesthetic analysis",
+      "student_work": "Students unpack user, purpose, performance, comfort, appearance, style and context, then convert each requirement into a design response that can be observed or tested.",
+      "syllabus_content": [
+        "Functional and aesthetic requirements of the MTP."
+      ],
+      "evidence": "Requirement-to-design-response table; H1.2",
+      "outcome_codes": [
+        "H1.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-07.html#m07s02-theory",
+        "folio.html#folio-05"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m07s02"
+      ]
+    },
+    {
+      "number": 27,
+      "module_id": "m07",
+      "module_title": "MTP Design Development",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Drawings and manufacturing specifications",
+      "student_work": "Develop production drawings and technical/non-technical specifications suited to the project. Include only project-relevant dimensions, materials, notions and sequencing.",
+      "syllabus_content": [
+        "Communication of design concepts and manufacturing specifications."
+      ],
+      "evidence": "Current drawing/specification set; H2.1",
+      "outcome_codes": [
+        "H2.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-07.html#m07s03-theory",
+        "folio.html#folio-06"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m07s03"
+      ]
+    },
+    {
+      "number": 28,
+      "module_id": "m07",
+      "module_title": "MTP Design Development",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Time, resources and decision management",
+      "student_work": "Students convert the approved manufacture sequence into a living plan with dependencies, checkpoints and contingency actions. Current school milestones remain teacher-confirmed.",
+      "syllabus_content": [
+        "Management of design and manufacture to completion."
+      ],
+      "evidence": "Versioned time/resource plan; H2.3",
+      "outcome_codes": [
+        "H2.3"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-07.html",
+        "folio.html#folio-06"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 29,
+      "module_id": "m08",
+      "module_title": "Experimentation and Design Decisions",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Building a fair and useful investigation",
+      "student_work": "Frame an investigation around an actual MTP decision. Define an aim, one purposeful variable, controls, a repeatable method and decision criteria for teacher approval.",
+      "syllabus_content": [
+        "Investigation and experimentation supporting material, technique and process selection."
+      ],
+      "evidence": "Teacher-approvable investigation plan; H1.1, H4.1, H4.2",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-08.html#m08s01-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m08s01"
+      ]
+    },
+    {
+      "number": 30,
+      "module_id": "m08",
+      "module_title": "Experimentation and Design Decisions",
+      "term": "Term 1",
+      "type": "Practical",
+      "focus": "Recording samples, observations and results",
+      "student_work": "Under local teacher direction, produce or analyse authorised samples. Record what occurred using photographs, labels, measurements or precise observations without back-filling an expected result.",
+      "syllabus_content": [
+        "Accurate communication of experimentation and manufacturing evidence."
+      ],
+      "evidence": "Traceable sample/results record; H2.1, H2.2",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-08.html#m08s02-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ],
+      "website_learning_ids": [
+        "m08s02"
+      ]
+    },
+    {
+      "number": 31,
+      "module_id": "m08",
+      "module_title": "Experimentation and Design Decisions",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Evaluation and justified design change",
+      "student_work": "Compare evidence with the stated criteria, identify limitations and make a specific keep/change/reject decision. Link the decision to the brief and end use.",
+      "syllabus_content": [
+        "Evaluation of experimentation and its contribution to MTP design and manufacture."
+      ],
+      "evidence": "Evidence-based design-change record; H1.1, H4.1, H4.2",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-08.html#m08s03-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m08s03"
+      ]
+    },
+    {
+      "number": 32,
+      "module_id": "m08",
+      "module_title": "Experimentation and Design Decisions",
+      "term": "Term 1",
+      "type": "Project/folio",
+      "focus": "Experimentation portfolio checkpoint",
+      "student_work": "Students check that each experiment has a decision purpose, method, authentic evidence, evaluation and visible consequence. Plan the smallest remaining investigation.",
+      "syllabus_content": [
+        "Management and communication of MTP investigation evidence."
+      ],
+      "evidence": "Experimentation audit and next investigation; H2.1, H2.3",
+      "outcome_codes": [
+        "H2.1",
+        "H2.3"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-08.html",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 33,
+      "module_id": "m09",
+      "module_title": "Innovations and Emerging Textile Technologies",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Innovation definitions, needs and drivers",
+      "student_work": "Distinguish invention, innovation and improvement. Analyse how performance needs, resource constraints, markets, research and social priorities can drive textile change.",
+      "syllabus_content": [
+        "Nature and development of textile innovations and emerging technologies."
+      ],
+      "evidence": "Driver-to-innovation explanation; H3.2",
+      "outcome_codes": [
+        "H3.2"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-09.html#m09s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m09s01"
+      ]
+    },
+    {
+      "number": 34,
+      "module_id": "m09",
+      "module_title": "Innovations and Emerging Textile Technologies",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Emerging fibres, yarns and fabrics",
+      "student_work": "Compare current source-verified examples at fibre, yarn and fabric level. Trace how a structural change is intended to alter performance.",
+      "syllabus_content": [
+        "Innovations in fibres, yarns and fabrics and their emerging applications."
+      ],
+      "evidence": "Structure-change-performance chain; H3.1, H3.2",
+      "outcome_codes": [
+        "H3.1",
+        "H3.2"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-09.html#m09s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m09s02"
+      ]
+    },
+    {
+      "number": 35,
+      "module_id": "m09",
+      "module_title": "Innovations and Emerging Textile Technologies",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Product, process and societal impacts",
+      "student_work": "Evaluate an innovation from consumer, manufacturer, employee and environmental viewpoints. Students identify an MTP-relevant possibility but avoid unsupported novelty claims.",
+      "syllabus_content": [
+        "Impacts of textile innovations on products, processes, people and environment."
+      ],
+      "evidence": "Multi-perspective impact evaluation; H3.2, H5.2",
+      "outcome_codes": [
+        "H3.2",
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-09.html#m09s03-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m09s03"
+      ]
+    },
+    {
+      "number": 36,
+      "module_id": "m09",
+      "module_title": "Innovations and Emerging Textile Technologies",
+      "term": "Term 2",
+      "type": "Project/folio",
+      "focus": "Innovation decision for the MTP",
+      "student_work": "Students investigate whether one emerging material or process is feasible and appropriate for their actual end use, resources and evidence needs. Record use, rejection or teacher-confirmation status.",
+      "syllabus_content": [
+        "Selection and justification of materials, processes and equipment for the MTP."
+      ],
+      "evidence": "Feasibility and end-use decision; H1.1, H4.1, H4.2",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-09.html",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 37,
+      "module_id": "m10",
+      "module_title": "Enhanced Performance",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Microfibres, bicomponent yarns and washable webs",
+      "student_work": "Teach the specified innovation types through structure, manufacture, claimed performance and end use. Students avoid treating every fine fibre or non-woven as the same technology.",
+      "syllabus_content": [
+        "Microfibres, bicomponent yarns and washable webs as textile innovations."
+      ],
+      "evidence": "Three-technology comparison; H3.1, H3.2",
+      "outcome_codes": [
+        "H3.1",
+        "H3.2"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-10.html#m10s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m10s01"
+      ]
+    },
+    {
+      "number": 38,
+      "module_id": "m10",
+      "module_title": "Enhanced Performance",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Retrieving structure-property relationships",
+      "student_work": "Retrieve Preliminary fibre, yarn and fabric knowledge, then diagnose weak links in a structure-to-property explanation before applying it to an HSC innovation.",
+      "syllabus_content": [
+        "Interrelationship of fibre, yarn and fabric properties; continuity from Preliminary learning."
+      ],
+      "evidence": "Corrected structure-property reasoning chain; H3.1",
+      "outcome_codes": [
+        "H3.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-10.html#m10s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m10s02"
+      ]
+    },
+    {
+      "number": 39,
+      "module_id": "m10",
+      "module_title": "Enhanced Performance",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Selecting performance for end use",
+      "student_work": "Start with an end-use requirement, identify the required property, connect it to structure and compare trade-offs. Apply the reasoning to one provisional MTP material.",
+      "syllabus_content": [
+        "Selection of textiles for performance in specific end uses."
+      ],
+      "evidence": "End-use comparison and provisional selection; H3.1, H4.1",
+      "outcome_codes": [
+        "H3.1",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-10.html#m10s03-theory",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m10s03"
+      ]
+    },
+    {
+      "number": 40,
+      "module_id": "m10",
+      "module_title": "Enhanced Performance",
+      "term": "Term 2",
+      "type": "Project/folio",
+      "focus": "MTP material evidence checkpoint",
+      "student_work": "Students verify fibre, yarn, fabric and finish information for selected materials and identify evidence gaps. Unsupported retail claims are not used as proof.",
+      "syllabus_content": [
+        "Justification of textile selection for MTP functional and aesthetic requirements."
+      ],
+      "evidence": "Material evidence card and next test/source; H1.1, H4.1",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-10.html",
+        "folio.html#folio-07"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 41,
+      "module_id": "m11",
+      "module_title": "Machinery, Seamless Technology and Enhancement",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Machinery and production technologies",
+      "student_work": "Compare how selected production machinery and computer-supported systems change precision, speed, repeatability, labour or design communication. Use current examples only when source-verified.",
+      "syllabus_content": [
+        "Developments in textile machinery and computer-supported production."
+      ],
+      "evidence": "Technology-impact comparison; H3.2",
+      "outcome_codes": [
+        "H3.2"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-11.html#m11s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m11s01"
+      ]
+    },
+    {
+      "number": 42,
+      "module_id": "m11",
+      "module_title": "Machinery, Seamless Technology and Enhancement",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Seamless technology and construction change",
+      "student_work": "Analyse how removing or relocating seams alters production, fit, comfort, waste and design possibilities. Students distinguish a seamless process from simply hiding seams.",
+      "syllabus_content": [
+        "Seamless technology and its effect on textile manufacture and performance."
+      ],
+      "evidence": "Process-performance explanation; H3.1, H3.2",
+      "outcome_codes": [
+        "H3.1",
+        "H3.2"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-11.html#m11s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m11s02"
+      ]
+    },
+    {
+      "number": 43,
+      "module_id": "m11",
+      "module_title": "Machinery, Seamless Technology and Enhancement",
+      "term": "Term 2",
+      "type": "Practical",
+      "focus": "Decorative enhancement, efficiency and quality",
+      "student_work": "Under teacher direction, compare an authorised conventional and technology-supported enhancement pathway or sample. Evaluate the result against accuracy, time, surface effect and end use.",
+      "syllabus_content": [
+        "Use of machinery and decorative technologies to enhance textile products."
+      ],
+      "evidence": "Comparative process evidence; H2.2, H4.2",
+      "outcome_codes": [
+        "H2.2",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-11.html#m11s03-theory",
+        "folio.html#folio-08"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-04"
+      ],
+      "website_learning_ids": [
+        "m11s03"
+      ]
+    },
+    {
+      "number": 44,
+      "module_id": "m11",
+      "module_title": "Machinery, Seamless Technology and Enhancement",
+      "term": "Term 2",
+      "type": "Project/folio",
+      "focus": "Production technology decision",
+      "student_work": "Students justify the selected equipment and manufacturing sequence for one MTP stage, including constraints, quality controls and an approved alternative if access changes.",
+      "syllabus_content": [
+        "Selection and justification of manufacturing techniques, materials and equipment for the MTP."
+      ],
+      "evidence": "Technology decision and contingency; H2.3, H4.2",
+      "outcome_codes": [
+        "H2.3",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-11.html",
+        "folio.html#folio-08"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 45,
+      "module_id": "m12",
+      "module_title": "End Use, Finishes and Care",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Defining end-use requirements",
+      "student_work": "Translate a use scenario into observable functional and aesthetic criteria before selecting a textile. Compare how priorities shift across two focus areas.",
+      "syllabus_content": [
+        "Functional and aesthetic performance criteria for textile end uses."
+      ],
+      "evidence": "End-use criteria matrix; H1.2, H4.1",
+      "outcome_codes": [
+        "H1.2",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-12.html#m12s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m12s01"
+      ]
+    },
+    {
+      "number": 46,
+      "module_id": "m12",
+      "module_title": "End Use, Finishes and Care",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Finishes, performance and care",
+      "student_work": "Compare selected finishes by treatment, intended effect, limitations and care implications. Avoid absolute performance claims unless supported by a current source.",
+      "syllabus_content": [
+        "Fabric finishing techniques, performance enhancement and care requirements."
+      ],
+      "evidence": "Finish-performance-care chain; H3.1, H4.1",
+      "outcome_codes": [
+        "H3.1",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-12.html#m12s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m12s02"
+      ]
+    },
+    {
+      "number": 47,
+      "module_id": "m12",
+      "module_title": "End Use, Finishes and Care",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Fibre, yarn and fabric justification",
+      "student_work": "Build a full justification from fibre properties through yarn and fabric structure to finish, end-use performance and trade-offs.",
+      "syllabus_content": [
+        "Interrelationship of fibre, yarn, fabric and finish in selection for specific end uses."
+      ],
+      "evidence": "Evidence-based selection response; H3.1, H4.1",
+      "outcome_codes": [
+        "H3.1",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-12.html#m12s03-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m12s03"
+      ]
+    },
+    {
+      "number": 48,
+      "module_id": "m12",
+      "module_title": "End Use, Finishes and Care",
+      "term": "Term 2",
+      "type": "Site/theory",
+      "focus": "Properties synthesis under command terms",
+      "student_work": "Students plan and write a supported response using an unfamiliar end-use scenario. Diagnose whether each sentence identifies, explains or justifies as required.",
+      "syllabus_content": [
+        "Integrated Properties and Performance content applied to HSC-style questions."
+      ],
+      "evidence": "Timed formative response and feedback; H3.1, H3.2, H4.1",
+      "outcome_codes": [
+        "H3.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-12.html",
+        "assessment.html"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 49,
+      "module_id": "m13",
+      "module_title": "The Australian Textiles Industry and Marketplace",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Industry sectors and supply relationships",
+      "student_work": "Map key Australian textiles, clothing, footwear and allied-industry sectors and the relationships among design, supply, manufacture, retail, service and end users. Current figures require dated primary sources.",
+      "syllabus_content": [
+        "Structure and sectors of the Australian textile industry and their relationships."
+      ],
+      "evidence": "Source-dated sector map; H5.2",
+      "outcome_codes": [
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-13.html#m13s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m13s01"
+      ]
+    },
+    {
+      "number": 50,
+      "module_id": "m13",
+      "module_title": "The Australian Textiles Industry and Marketplace",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Marketplace, product development and marketing",
+      "student_work": "Apply product, price, place and promotion to an approved textile case. Connect target market and product life-cycle position to marketing decisions.",
+      "syllabus_content": [
+        "Textile marketplace, target markets, product development, marketing mix and product life cycle."
+      ],
+      "evidence": "Marketing strategy analysis; H5.1",
+      "outcome_codes": [
+        "H5.1"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-13.html#m13s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m13s02"
+      ]
+    },
+    {
+      "number": 51,
+      "module_id": "m13",
+      "module_title": "The Australian Textiles Industry and Marketplace",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Workplace, consumer and global links",
+      "student_work": "Analyse how global supply, consumer demand, skills and workplace decisions interact. Students identify one relevant implication for communicating their MTP as a product.",
+      "syllabus_content": [
+        "Globalisation, skills, consumer demand and changing industry relationships."
+      ],
+      "evidence": "Relationship analysis and MTP implication; H5.1, H5.2",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-13.html#m13s03-theory",
+        "folio.html#folio-09"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m13s03"
+      ]
+    },
+    {
+      "number": 52,
+      "module_id": "m13",
+      "module_title": "The Australian Textiles Industry and Marketplace",
+      "term": "Term 3",
+      "type": "Project/folio",
+      "focus": "MTP product communication and label planning",
+      "student_work": "Students draft product information appropriate to user and end use, then flag every legal, fibre-content, care or school requirement that needs current teacher/source confirmation.",
+      "syllabus_content": [
+        "Communication of the MTP to technical and non-technical audiences; marketplace considerations."
+      ],
+      "evidence": "Draft product communication with confirmation flags; H2.1, H5.1",
+      "outcome_codes": [
+        "H2.1",
+        "H5.1"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-13.html",
+        "folio.html#folio-09"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 53,
+      "module_id": "m14",
+      "module_title": "Sustainability, Technology and Current Issues",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Appropriate textile technology",
+      "student_work": "Judge whether a technology is appropriate by matching scale, skill, cost, maintenance, resource use, local context and intended benefit—not by assuming newer is better.",
+      "syllabus_content": [
+        "Appropriate technology, resources, alternatives and limitations in textile production."
+      ],
+      "evidence": "Context-based technology judgement; H5.2",
+      "outcome_codes": [
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-14.html#m14s01-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m14s01"
+      ]
+    },
+    {
+      "number": 54,
+      "module_id": "m14",
+      "module_title": "Sustainability, Technology and Current Issues",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Sustainability across a product life cycle",
+      "student_work": "Trace material sourcing, manufacture, distribution, use, care, repair and end-of-life. Identify burden shifting and distinguish a verified improvement from a vague green claim.",
+      "syllabus_content": [
+        "Environmental sustainability, recycling, pollution and product life-cycle considerations."
+      ],
+      "evidence": "Life-cycle hotspot analysis; H5.2",
+      "outcome_codes": [
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-14.html#m14s02-theory"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m14s02"
+      ]
+    },
+    {
+      "number": 55,
+      "module_id": "m14",
+      "module_title": "Sustainability, Technology and Current Issues",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Social, consumer and industry issues",
+      "student_work": "Use a current dated source to analyse one issue from more than one stakeholder perspective. Students connect the issue to a bounded MTP decision without claiming to solve the whole problem.",
+      "syllabus_content": [
+        "Impact of current social, consumer and industry issues on the Australian textiles industry."
+      ],
+      "evidence": "Multi-stakeholder issue analysis; H5.2",
+      "outcome_codes": [
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-14.html#m14s03-theory",
+        "folio.html#folio-09"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": [
+        "m14s03"
+      ]
+    },
+    {
+      "number": 56,
+      "module_id": "m14",
+      "module_title": "Sustainability, Technology and Current Issues",
+      "term": "Term 3",
+      "type": "Project/folio",
+      "focus": "MTP sustainability and resource evaluation",
+      "student_work": "Students evaluate one material, process or care decision across the relevant life-cycle stages and record a practical keep/change/mitigate action.",
+      "syllabus_content": [
+        "Factors contributing to MTP design and manufacture; justified material/process choices."
+      ],
+      "evidence": "Bounded sustainability evaluation; H1.1, H4.1, H4.2",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H4.2"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-14.html",
+        "folio.html#folio-09"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 57,
+      "module_id": "m15",
+      "module_title": "MTP Handoff and HSC Synthesis",
+      "term": "Term 3",
+      "type": "Project/folio",
+      "focus": "MTP completion and evidence handoff",
+      "student_work": "Students reconcile the approved item or items, supporting-documentation evidence and remaining teacher-confirmed submission actions. The site does not certify completeness or replace official checks.",
+      "syllabus_content": [
+        "Completion and management of MTP design and manufacture; communication of evidence."
+      ],
+      "evidence": "Completion audit and teacher-check list; H1.1, H2.1, H2.2, H2.3",
+      "outcome_codes": [
+        "H1.1",
+        "H2.1",
+        "H2.2",
+        "H2.3"
+      ],
+      "area_hours": [
+        [
+          "Major Textiles Project",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-15.html#m15s01-theory",
+        "folio.html#folio-10"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-03"
+      ],
+      "website_learning_ids": [
+        "m15s01"
+      ]
+    },
+    {
+      "number": 58,
+      "module_id": "m15",
+      "module_title": "MTP Handoff and HSC Synthesis",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Command terms and response planning",
+      "student_work": "Retrieve design content while practising analyse, explain, justify and evaluate. Students annotate one plan to show where evidence, relationships and judgement will appear.",
+      "syllabus_content": [
+        "Design content integrated through HSC response planning; MTP factors and influences."
+      ],
+      "evidence": "Annotated response plan and MTP reflection; H1.1, H1.2, H1.3, H6.1",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H1.3",
+        "H6.1"
+      ],
+      "area_hours": [
+        [
+          "Design",
+          1
+        ],
+        [
+          "Major Textiles Project",
+          1
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-15.html#m15s02-theory",
+        "assessment.html"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02",
+        "TTC-03"
+      ],
+      "website_learning_ids": [
+        "m15s02"
+      ]
+    },
+    {
+      "number": 59,
+      "module_id": "m15",
+      "module_title": "MTP Handoff and HSC Synthesis",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Properties synthesis and misconception repair",
+      "student_work": "Retrieve structure-property, innovation, finish and end-use selection concepts. Students correct one misconception before completing a timed formative response.",
+      "syllabus_content": [
+        "Integrated Properties and Performance content for HSC preparation."
+      ],
+      "evidence": "Corrected reasoning chain and timed response; H3.1, H3.2, H4.1",
+      "outcome_codes": [
+        "H3.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "area_hours": [
+        [
+          "Properties and Performance of Textiles",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-15.html#m15s03-theory",
+        "assessment.html"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02",
+        "TTC-03"
+      ],
+      "website_learning_ids": [
+        "m15s03"
+      ]
+    },
+    {
+      "number": 60,
+      "module_id": "m15",
+      "module_title": "MTP Handoff and HSC Synthesis",
+      "term": "Term 3",
+      "type": "Site/theory",
+      "focus": "Industry and whole-course synthesis",
+      "student_work": "Connect marketing and current issues to an unfamiliar textile case, then build a personal revision plan across Design, Properties, industry and MTP learning. Current examination logistics remain teacher-confirmed.",
+      "syllabus_content": [
+        "Integrated application of HSC Areas of Study and course outcomes."
+      ],
+      "evidence": "Industry response plus evidence-based revision plan; H5.1, H5.2",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "area_hours": [
+        [
+          "Australian Textiles, Clothing, Footwear and Allied Industries",
+          2
+        ]
+      ],
+      "site_destinations": [
+        "modules/module-15.html",
+        "assessment.html",
+        "folio.html#folio-10"
+      ],
+      "source_ids": [
+        "SRC-WWHS-SYL-2013",
+        "SRC-WWHS-SCOPE-2023-24"
+      ],
+      "assessment_status": "formative learning evidence; current formal task notice Teacher to confirm",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02",
+        "TTC-03"
+      ],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "assessment.html",
+      "purpose": "Assessment orientation; current formal details remain Teacher to confirm",
+      "audience": "student",
+      "period_numbers": [
+        48,
+        58,
+        59,
+        60
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-01",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-02",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        3,
+        4
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-03",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        7,
+        8,
+        11,
+        12,
+        22,
+        23,
+        24
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-04",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        25
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-05",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-06",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        27,
+        28
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-07",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        16,
+        19,
+        20,
+        29,
+        30,
+        31,
+        32,
+        35,
+        36,
+        39,
+        40
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-08",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        43,
+        44
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-09",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        51,
+        52,
+        55,
+        56
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "folio.html#folio-10",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        57,
+        60
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-01.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-01.html#m01s01-theory",
+      "purpose": "The HSC course map and two-year bridge: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-01.html#m01s02-theory",
+      "purpose": "MTP focus areas, requirements and evidence: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-01.html#m01s03-theory",
+      "purpose": "From design inspiration to a workable brief: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-02.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-02.html#m02s01-theory",
+      "purpose": "Tracing one focus area over time: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-02.html#m02s02-theory",
+      "purpose": "Factors that shape design change: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-02.html#m02s03-theory",
+      "purpose": "Turning historical evidence into analysis: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-03.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-03.html#m03s01-theory",
+      "purpose": "Designer practice, inspiration and signature: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-03.html#m03s02-theory",
+      "purpose": "Internal and external success factors: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-03.html#m03s03-theory",
+      "purpose": "The relationship between designers and trends: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-04.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-04.html#m04s01-theory",
+      "purpose": "Colour principles for a specific end use: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-04.html#m04s02-theory",
+      "purpose": "Printing and dyeing processes: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-04.html#m04s03-theory",
+      "purpose": "Planning controlled colouration evidence: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-05.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-05.html#m05s01-theory",
+      "purpose": "Appliqué, embroidery and surface decoration: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-05.html#m05s02-theory",
+      "purpose": "Hand and machine technique decisions: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-05.html#m05s03-theory",
+      "purpose": "Comparing and evaluating samples: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-06.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        24
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-06.html#m06s01-theory",
+      "purpose": "Cultural context and respectful evidence: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-06.html#m06s02-theory",
+      "purpose": "Meanings, resources, skills and processes: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-06.html#m06s03-theory",
+      "purpose": "Design influence without appropriation: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-07.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-07.html#m07s01-theory",
+      "purpose": "Generating ideas and choosing a final direction: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        25
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-07.html#m07s02-theory",
+      "purpose": "Functional and aesthetic analysis: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-07.html#m07s03-theory",
+      "purpose": "Drawings, specifications and time planning: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-08.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-08.html#m08s01-theory",
+      "purpose": "Building a fair and useful investigation: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        29
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-08.html#m08s02-theory",
+      "purpose": "Recording samples, observations and results: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        30
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-08.html#m08s03-theory",
+      "purpose": "Evaluation and justified design change: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-09.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-09.html#m09s01-theory",
+      "purpose": "Innovation definitions, needs and drivers: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-09.html#m09s02-theory",
+      "purpose": "Emerging fibres, yarns and fabrics: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        34
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-09.html#m09s03-theory",
+      "purpose": "Product, process and societal impacts: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        35
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-10.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        40
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-10.html#m10s01-theory",
+      "purpose": "Microfibres, bicomponent yarns and washable webs: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-10.html#m10s02-theory",
+      "purpose": "Revising structure–property relationships: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        38
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-10.html#m10s03-theory",
+      "purpose": "Selecting performance for end use: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        39
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-11.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        44
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-11.html#m11s01-theory",
+      "purpose": "Machinery and production technologies: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-11.html#m11s02-theory",
+      "purpose": "Seamless technology and construction change: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        42
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-11.html#m11s03-theory",
+      "purpose": "Decorative enhancement, efficiency and quality: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-12.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-12.html#m12s01-theory",
+      "purpose": "Defining end-use requirements: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-12.html#m12s02-theory",
+      "purpose": "Finishes, performance and care: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        46
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-12.html#m12s03-theory",
+      "purpose": "Evidence-based fibre, yarn and fabric justification: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-13.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        52
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-13.html#m13s01-theory",
+      "purpose": "Industry sectors and supply relationships: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        49
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-13.html#m13s02-theory",
+      "purpose": "Marketplace, product development and marketing: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        50
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-13.html#m13s03-theory",
+      "purpose": "Workplace, consumer and global links: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        51
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-14.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        56
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-14.html#m14s01-theory",
+      "purpose": "Appropriate textile technology: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        53
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-14.html#m14s02-theory",
+      "purpose": "Environmental sustainability across a product life cycle: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        54
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-14.html#m14s03-theory",
+      "purpose": "Analysing social, consumer and industry issues: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        55
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-15.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        60
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-15.html#m15s01-theory",
+      "purpose": "MTP completion and evidence handoff: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        57
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-15.html#m15s02-theory",
+      "purpose": "Command terms and response planning: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        58
+      ],
+      "site_scope": "Year 12 local course"
+    },
+    {
+      "destination": "modules/module-15.html#m15s03-theory",
+      "purpose": "Whole-course synthesis and revision: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        59
+      ],
+      "site_scope": "Year 12 local course"
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "owner": "Head Teacher / class teacher",
+      "item": "Treat 2027 as the planning basis only; confirm the actual delivery year, term dates and conversion of the 60 two-hour planning periods to the local timetable.",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "due_before": "Before the programme is placed on the school timetable"
+    },
+    {
+      "id": "TTC-02",
+      "owner": "Head Teacher / class teacher",
+      "item": "Insert the current official assessment notifications: task numbers, dates, weightings, outcomes, criteria and submission or absence rules.",
+      "affected_periods": [
+        48,
+        58,
+        59,
+        60
+      ],
+      "due_before": "Before any formal assessment information is issued"
+    },
+    {
+      "id": "TTC-03",
+      "owner": "Class teacher",
+      "item": "Confirm current MTP checkpoints, display, packaging, certification, collection and submission arrangements.",
+      "affected_periods": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "due_before": "Before the MTP completion and handoff block"
+    },
+    {
+      "id": "TTC-04",
+      "owner": "Class teacher",
+      "item": "Approve each student's focus area or project direction, equipment access, practical method and local WHS controls.",
+      "affected_periods": [
+        16,
+        19,
+        30,
+        43
+      ],
+      "due_before": "Before each affected practical period"
+    },
+    {
+      "id": "TTC-05",
+      "owner": "Class teacher",
+      "item": "Confirm the contemporary designer or case study, current sources and any updated local cultural-study requirements.",
+      "affected_periods": [
+        9,
+        10,
+        11,
+        12,
+        21,
+        22,
+        23,
+        24
+      ],
+      "due_before": "Before Modules 3 and 6 are taught"
+    },
+    {
+      "id": "TTC-06",
+      "owner": "Head Teacher",
+      "item": "Approve the Year 12 programme and the two-year master before school use or adoption.",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "due_before": "Before school use or adoption"
+    }
+  ],
+  "files": [
+    {
+      "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Teaching-Programme-v1.0.docx",
+      "purpose": "editable-program",
+      "version": "v1.0",
+      "bytes": 33639,
+      "sha256": "653a9f8037e62d4482942c51ac2f748ab72e6152b2d779b2576e46457c4a7f3c"
+    },
+    {
+      "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Teaching-Programme-v1.0.pdf",
+      "purpose": "rendered-program",
+      "version": "v1.0",
+      "bytes": 243548,
+      "sha256": "5393c8b57109b320f50a2fc65703560978f7f3b92048195e6a832987888cdf07"
+    },
+    {
+      "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Alignment-Manifest-v1.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v1.0"
+    },
+    {
+      "path": "Year-12-HSC-Textiles-and-Design-Site-Map-v1.0.json",
+      "purpose": "site-map",
+      "version": "v1.0",
+      "bytes": 44075,
+      "sha256": "31bdd64660c7f503f34e7c8c858a2a915a5677ea954b67dde19a7619d1976ee9"
+    },
+    {
+      "path": "Year-12-HSC-Textiles-and-Design-Delivery-Register-v1.0.docx",
+      "purpose": "delivery-register",
+      "version": "v1.0",
+      "bytes": 18369,
+      "sha256": "f1af39cc002da75fa24ed3ee01e128b09f7ce4d068975ecb0a1b53a87818ae31"
+    },
+    {
+      "path": "Year-12-HSC-Textiles-and-Design-Delivery-Register-v1.0.pdf",
+      "purpose": "rendered-delivery-register",
+      "version": "v1.0",
+      "bytes": 140300,
+      "sha256": "e3a23f4a66078774954f9d10d44511d1fc7178792737ca3a4d243a0aa6179df7"
+    }
+  ],
+  "planning_basis": "2027 is a clearly labelled planning basis only; the actual delivery year and local timetable remain Teacher to confirm.",
+  "assessment_boundary": "Current teacher-issued notifications control task dates, weightings, outcomes, criteria and submission or absence rules. Historical task patterns are orientation only.",
+  "review_state": {
+    "status": "local-current-contract-candidate",
+    "authority_boundary": "Publication authorised; final school use or adoption remains Teacher to confirm."
+  },
+  "producer_qa": {
+    "period_count": 60,
+    "learning_inventory_count": 45,
+    "question_count": 450,
+    "rows_per_teaching_page": 6,
+    "teaching_table_body_points": 10,
+    "density_reason": "Six rows preserve complete 10-point section/check links and adjacent Teacher-to-confirm wording on every landscape page without row spill."
+  },
+  "network_profile_version": "1.2"
+}

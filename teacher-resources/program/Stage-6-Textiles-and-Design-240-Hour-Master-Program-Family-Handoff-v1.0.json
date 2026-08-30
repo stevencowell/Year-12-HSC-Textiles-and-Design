@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "program_id": "stage-6-textiles-and-design-240-hour-master-programme",
+  "program_kind": "master",
+  "source_binding": {
+    "source_map_id": "year-12-hsc-textiles-and-design-source-map-v1",
+    "source_map_sha256": "26838b0c2a3747bbf28d6fcd5e6ab6b86e9f6f7cf55ae0738665d62f680b48bd",
+    "integration_baseline_id": "year12-textiles-integration-v1",
+    "integration_baseline_sha256": "f224f84b1c00e7417da2bf7de96515b4d94af0e0a204bf507aa56151954c11a6"
+  },
+  "course": {
+    "title": "Stage 6 Textiles and Design 240-hour Master",
+    "family": "Textiles and Design",
+    "stage": "Stage 6",
+    "course": "Textiles and Design",
+    "version": "v1.0",
+    "duration": {
+      "value": 240,
+      "unit": "hours"
+    },
+    "site_state": "local-only"
+  },
+  "syllabus": {
+    "family_key": "textiles-and-design-stage-6-2013",
+    "title": "Textiles and Design Stage 6 Syllabus (2013)",
+    "version": "2013",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013",
+    "status": "Current Stage 6 syllabus",
+    "verified_date": "2026-08-30",
+    "implementation_basis": "Use the current 2013 syllabus; 2027 is a planning basis only and actual delivery remains Teacher to confirm",
+    "outcome_code_family": "P and H"
+  },
+  "palette": {
+    "mode": "existing-syllabus-tone",
+    "syllabus_tone": "senior-textiles"
+  },
+  "master_relationship": {
+    "state": "this-is-master",
+    "coverage_state": "assurance"
+  },
+  "teacher_resources": {
+    "route": "teacher-resources.html",
+    "links": [
+      {
+        "label": "Teaching program PDF",
+        "artifact_role": "rendered-program"
+      },
+      {
+        "label": "Editable teaching program",
+        "artifact_role": "editable-program"
+      }
+    ]
+  },
+  "artifacts": [
+    {
+      "role": "editable-program",
+      "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Programme-v1.0.docx",
+      "sha256": "0e103372a121ea2301a00220d7194d5b6e9964883a3b54799fe63f046c5817b0"
+    },
+    {
+      "role": "rendered-program",
+      "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Programme-v1.0.pdf",
+      "sha256": "1e860f299020657dfa92ea28a61efdaed5a6dd40cdf1dfcb690f5d9252c8cff3"
+    },
+    {
+      "role": "alignment-manifest",
+      "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Alignment-Manifest-v1.0.json",
+      "sha256": "b9b8de5d484119ac07da28daa38d686fd8d93ac5bcad3acb8a7a041bb3b09357"
+    },
+    {
+      "role": "site-map",
+      "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Site-Map-v1.0.json",
+      "sha256": "051e77fad686d7c9d5dd257f207b10aef82f09e029395f755ce2581cf68e738d"
+    },
+    {
+      "role": "delivery-register",
+      "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Delivery-Register-v1.0.docx",
+      "sha256": "9106f3fdd700cc7a8ac5824dd96e5c22b7d027f9ae6ab373c12b1706a08b1e63"
+    }
+  ],
+  "library_card": {
+    "title": "Stage 6 Textiles and Design 240-hour Master",
+    "family": "Textiles and Design",
+    "stage": "Stage 6",
+    "course": "Textiles and Design",
+    "version": "v1.0",
+    "durationLabel": "240 hours",
+    "syllabusAligned": true,
+    "pdf": "programs/Stage-6-Textiles-and-Design-240-Hour-Master-Programme-v1.0.pdf",
+    "docx": "programs/Stage-6-Textiles-and-Design-240-Hour-Master-Programme-v1.0.docx",
+    "manifest": "programs/Stage-6-Textiles-and-Design-240-Hour-Master-Alignment-Manifest-v1.0.json",
+    "syllabusTitle": "Textiles and Design Stage 6 Syllabus (2013)",
+    "syllabusUrl": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013",
+    "syllabusStatus": "Current Stage 6 syllabus",
+    "syllabusVerified": "2026-08-30",
+    "master": true,
+    "masterNote": "Assures the accepted Year 11 60-period baseline and the current Year 12 periods 61–120; school use or adoption remains Teacher to confirm."
+  },
+  "registration": {
+    "state": "handoff-ready",
+    "canonical_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/"
+  }
+}

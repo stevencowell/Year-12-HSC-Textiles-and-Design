@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="description" content="A private browser-local learning and MTP-process folio for Year 12 HSC Textiles and Design.">
+  <title>My folio | Year 12 Textiles and Design</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="module-standard.css">
+</head>
+<body data-root="" data-active="folio">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header data-site-nav></header>
+  <main id="main">
+    <section class="folio-hero"><div class="wrap folio-hero-grid">
+      <div>
+        <p class="eyebrow">Year 12 HSC · learning and process record</p>
+        <h1>My textiles folio</h1>
+        <p class="lede">Collect the thinking and evidence that show how your HSC learning and Major Textiles Project decisions develop. Save locally, explain what each record proves and keep a backup.</p>
+        <a class="button secondary" href="index.html">← Return to the course</a>
+      </div>
+      <figure><img src="assets/images/course-hero.png" alt="An organised senior textiles workspace with fabric, thread, measuring tools and design development materials."><figcaption>A useful folio connects source evidence, design thinking, textile decisions and evaluation. <button class="open-larger" type="button" data-open-global-visual="folio-hero-dialog">Open larger</button></figcaption><dialog class="visual-dialog" id="folio-hero-dialog" aria-labelledby="folio-hero-dialog-label"><div class="visual-dialog-frame"><img src="assets/images/course-hero.png" alt="An organised senior textiles workspace with fabric, thread, measuring tools and design development materials." loading="lazy" decoding="async"><div><p id="folio-hero-dialog-label">A useful folio connects source evidence, design thinking, textile decisions and evaluation.</p><button class="button secondary" type="button" data-close-visual>Close image</button></div></div></dialog></figure>
+    </div></section>
+
+    <section class="folio-intro"><div class="wrap">
+      <div class="folio-orientation">
+        <div><p class="eyebrow">Evidence first</p><h2>Collect, explain and protect your work</h2><p>This is a learning and process scaffold. It does not replace the formal MTP supporting documentation, a teacher-issued assessment task or the approved submission channel.</p></div>
+        <ol><li><strong>Collect</strong><span>Add a decision, result, source record or teacher-authorised photo.</span></li><li><strong>Explain</strong><span>State what the evidence proves and how it influenced the next decision.</span></li><li><strong>Back up</strong><span>Download the editable backup before changing device or browser.</span></li></ol>
+      </div>
+    </div></section>
+
+    <section><div class="wrap">
+      <section class="folio-session" aria-labelledby="folio-session-title">
+        <div class="folio-session-head"><div><p class="eyebrow">Your browser-local record</p><h2 id="folio-session-title">Saving and progress</h2></div><p class="folio-record" data-record-id>No student details entered</p></div>
+        <div class="folio-details-grid"><label>Student name<input type="text" data-detail="student-name" autocomplete="name"></label><label>Class<input type="text" data-detail="class" autocomplete="off"></label><label>Date started<input type="date" data-detail="date-started"></label></div>
+        <div class="folio-progress" aria-live="polite"><div><strong data-progress-summary>0 of 10 records complete</strong><p data-progress-detail>10 cards are blank.</p></div><a class="button secondary compact" href="#folio-01" data-next-action>Start the two-year bridge</a></div>
+        <div class="controls screen-only"><button class="button" type="button" data-backup>Download editable backup</button><label class="button secondary" for="restore-file">Restore backup</label><input class="sr-only" id="restore-file" type="file" accept="application/json,.json"><button class="button secondary" type="button" data-print>Print / Save PDF</button><button class="button secondary" type="button" data-reset>Reset folio fields and photos</button><a class="button secondary" href="index.html">Course home</a></div>
+        <p class="save-status" data-global-status tabindex="-1" aria-live="polite"></p>
+        <p class="folio-privacy"><strong>Saved on this browser and device:</strong> this page does not upload to Google Drive or submit to Google Classroom. The editable JSON backup can include your text and locally added photos. Print / Save PDF creates a readable learning copy, not proof of submission or practical competence.</p>
+      </section>
+
+      <div class="status-note caution folio-boundary"><strong>Current authority boundary:</strong> formal MTP requirements, checkpoints, dates, certification, packaging, submission, equipment permissions and workshop/WHS procedures remain controlled by current NESA advice and your teacher’s instructions. Record only work you have actually completed and evidence you are authorised to use.</div>
+
+      <nav class="folio-jump screen-only" aria-label="Folio evidence groups"><a href="#folio-course-bridge">Course bridge</a><a href="#folio-design-development">Design development</a><a href="#folio-evidence-handoff">Evidence and handoff</a></nav>
+      <div class="folio-stage-list" data-folio-grid></div>
+    </div></section>
+  </main>
+  <footer class="footer"><div class="wrap"><strong>Year 12 HSC Textiles and Design</strong><p class="fine">Keep original evidence files and follow current teacher privacy, WHS and submission directions.</p></div></footer>
+  <script src="course-data.js"></script>
+  <script src="app.js"></script>
+  <script src="folio.js"></script>
+</body>
+</html>

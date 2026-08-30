@@ -1,0 +1,2651 @@
+{
+  "schema_version": "1.0",
+  "program_id": "stage-6-textiles-and-design-240-hour-master-programme",
+  "generated_at": "2026-08-30",
+  "sites": [
+    {
+      "component": "Preliminary",
+      "state": "confirmed-public",
+      "reference": "https://stevencowell.github.io/Year-11-Preliminary-Textiles-and-Design/",
+      "period_boundary": "1–60"
+    },
+    {
+      "component": "HSC",
+      "state": "local",
+      "reference": "../../index.html",
+      "period_boundary": "61–120"
+    }
+  ],
+  "qualification_rule": "Accepted Year 11 route strings remain unchanged; Year 12 routes are qualified ../../ paths from the programme directory so identical module filenames are never conflated.",
+  "inventory_count": 90,
+  "learning_inventory": [
+    {
+      "id": "m01-s01",
+      "route": "modules/module-01.html#m01-s01",
+      "theory_section": "Design purpose, users and requirements",
+      "quiz_or_check": "Design purpose, users and requirements knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s02",
+      "route": "modules/module-01.html#m01-s02",
+      "theory_section": "Elements of design",
+      "quiz_or_check": "Elements of design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s03",
+      "route": "modules/module-01.html#m01-s03",
+      "theory_section": "Principles of design",
+      "quiz_or_check": "Principles of design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s01",
+      "route": "modules/module-02.html#m02-s01",
+      "theory_section": "Focus areas and design types",
+      "quiz_or_check": "Focus areas and design types knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        5
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s02",
+      "route": "modules/module-02.html#m02-s02",
+      "theory_section": "Factors affecting design",
+      "quiz_or_check": "Factors affecting design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s03",
+      "route": "modules/module-02.html#m02-s03",
+      "theory_section": "Inspiration and design development",
+      "quiz_or_check": "Inspiration and design development knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s01",
+      "route": "modules/module-03.html#m03-s01",
+      "theory_section": "Manufacturing methods",
+      "quiz_or_check": "Manufacturing methods knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        9
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s02",
+      "route": "modules/module-03.html#m03-s02",
+      "theory_section": "Commercial pattern information",
+      "quiz_or_check": "Commercial pattern information knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        10
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s03",
+      "route": "modules/module-03.html#m03-s03",
+      "theory_section": "Planning and quality checkpoints",
+      "quiz_or_check": "Planning and quality checkpoints knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s01",
+      "route": "modules/module-04.html#m04-s01",
+      "theory_section": "Drawing and annotation",
+      "quiz_or_check": "Drawing and annotation knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s02",
+      "route": "modules/module-04.html#m04-s02",
+      "theory_section": "Production communication",
+      "quiz_or_check": "Production communication knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s03",
+      "route": "modules/module-04.html#m04-s03",
+      "theory_section": "Digital and presentation methods",
+      "quiz_or_check": "Digital and presentation methods knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        15
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s01",
+      "route": "modules/module-05.html#m05-s01",
+      "theory_section": "Design refinement",
+      "quiz_or_check": "Design refinement knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s02",
+      "route": "modules/module-05.html#m05-s02",
+      "theory_section": "Project management",
+      "quiz_or_check": "Project management knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s03",
+      "route": "modules/module-05.html#m05-s03",
+      "theory_section": "Evaluation and folio evidence",
+      "quiz_or_check": "Evaluation and folio evidence knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        19
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s01",
+      "route": "modules/module-06.html#m06-s01",
+      "theory_section": "Fibre classification",
+      "quiz_or_check": "Fibre classification knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s02",
+      "route": "modules/module-06.html#m06-s02",
+      "theory_section": "Molecular and morphological structure",
+      "quiz_or_check": "Molecular and morphological structure knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        24
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s03",
+      "route": "modules/module-06.html#m06-s03",
+      "theory_section": "From fibre to textile",
+      "quiz_or_check": "From fibre to textile knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        25
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s01",
+      "route": "modules/module-07.html#m07-s01",
+      "theory_section": "Natural cellulosic fibres",
+      "quiz_or_check": "Natural cellulosic fibres knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        27
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s02",
+      "route": "modules/module-07.html#m07-s02",
+      "theory_section": "Natural protein fibres",
+      "quiz_or_check": "Natural protein fibres knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        28
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s03",
+      "route": "modules/module-07.html#m07-s03",
+      "theory_section": "Regenerated, synthetic and blended fibres",
+      "quiz_or_check": "Regenerated, synthetic and blended fibres knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        29
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s01",
+      "route": "modules/module-08.html#m08-s01",
+      "theory_section": "Staple-spun and filament yarns",
+      "quiz_or_check": "Staple-spun and filament yarns knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        31
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s02",
+      "route": "modules/module-08.html#m08-s02",
+      "theory_section": "Twist and spinning systems",
+      "quiz_or_check": "Twist and spinning systems knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        32
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s03",
+      "route": "modules/module-08.html#m08-s03",
+      "theory_section": "Textured and novelty yarns",
+      "quiz_or_check": "Textured and novelty yarns knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        33
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s01",
+      "route": "modules/module-09.html#m09-s01",
+      "theory_section": "Yarn characteristics",
+      "quiz_or_check": "Yarn characteristics knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        35
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s02",
+      "route": "modules/module-09.html#m09-s02",
+      "theory_section": "Structure-property relationships",
+      "quiz_or_check": "Structure-property relationships knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        36
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s03",
+      "route": "modules/module-09.html#m09-s03",
+      "theory_section": "End-use justification",
+      "quiz_or_check": "End-use justification knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        37
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s01",
+      "route": "modules/module-10.html#m10-s01",
+      "theory_section": "Woven structures",
+      "quiz_or_check": "Woven structures knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        39
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s02",
+      "route": "modules/module-10.html#m10-s02",
+      "theory_section": "Knitted structures",
+      "quiz_or_check": "Knitted structures knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        40
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s03",
+      "route": "modules/module-10.html#m10-s03",
+      "theory_section": "Non-woven structures",
+      "quiz_or_check": "Non-woven structures knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        41
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11-s01",
+      "route": "modules/module-11.html#m11-s01",
+      "theory_section": "Properties and end use",
+      "quiz_or_check": "Properties and end use knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        43
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11-s02",
+      "route": "modules/module-11.html#m11-s02",
+      "theory_section": "Planning a fair textile test",
+      "quiz_or_check": "Planning a fair textile test knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        44
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11-s03",
+      "route": "modules/module-11.html#m11-s03",
+      "theory_section": "Recording and interpreting results",
+      "quiz_or_check": "Recording and interpreting results knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        45
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12-s01",
+      "route": "modules/module-12.html#m12-s01",
+      "theory_section": "Analysing experimental evidence",
+      "quiz_or_check": "Analysing experimental evidence knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        47
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12-s02",
+      "route": "modules/module-12.html#m12-s02",
+      "theory_section": "Fabric selection and design",
+      "quiz_or_check": "Fabric selection and design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        48
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12-s03",
+      "route": "modules/module-12.html#m12-s03",
+      "theory_section": "Project evidence and evaluation",
+      "quiz_or_check": "Project evidence and evaluation knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        49
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13-s01",
+      "route": "modules/module-13.html#m13-s01",
+      "theory_section": "Industry development and sectors",
+      "quiz_or_check": "Industry development and sectors knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        51
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13-s02",
+      "route": "modules/module-13.html#m13-s02",
+      "theory_section": "Local and global context",
+      "quiz_or_check": "Local and global context knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        52
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13-s03",
+      "route": "modules/module-13.html#m13-s03",
+      "theory_section": "Careers and training",
+      "quiz_or_check": "Careers and training knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        53
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14-s01",
+      "route": "modules/module-14.html#m14-s01",
+      "theory_section": "Quality assurance and control",
+      "quiz_or_check": "Quality assurance and control knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        54
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14-s02",
+      "route": "modules/module-14.html#m14-s02",
+      "theory_section": "Manufacturer and consumer roles",
+      "quiz_or_check": "Manufacturer and consumer roles knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        55
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14-s03",
+      "route": "modules/module-14.html#m14-s03",
+      "theory_section": "Perceived, cultural and economic value",
+      "quiz_or_check": "Perceived, cultural and economic value knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        56
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15-s01",
+      "route": "modules/module-15.html#m15-s01",
+      "theory_section": "Knowledge retrieval",
+      "quiz_or_check": "Knowledge retrieval knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        57
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15-s02",
+      "route": "modules/module-15.html#m15-s02",
+      "theory_section": "Command terms and response planning",
+      "quiz_or_check": "Command terms and response planning knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        58
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15-s03",
+      "route": "modules/module-15.html#m15-s03",
+      "theory_section": "Course synthesis",
+      "quiz_or_check": "Course synthesis knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        59
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m01s01",
+      "route": "../../modules/module-01.html#m01s01-theory",
+      "theory_section": "The HSC course map and two-year bridge",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        61
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m01s02",
+      "route": "../../modules/module-01.html#m01s02-theory",
+      "theory_section": "MTP focus areas, requirements and evidence",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        62
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m01s03",
+      "route": "../../modules/module-01.html#m01s03-theory",
+      "theory_section": "From design inspiration to a workable brief",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        63
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m02s01",
+      "route": "../../modules/module-02.html#m02s01-theory",
+      "theory_section": "Tracing one focus area over time",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        65
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m02s02",
+      "route": "../../modules/module-02.html#m02s02-theory",
+      "theory_section": "Factors that shape design change",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        66
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m02s03",
+      "route": "../../modules/module-02.html#m02s03-theory",
+      "theory_section": "Turning historical evidence into analysis",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        67
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m03s01",
+      "route": "../../modules/module-03.html#m03s01-theory",
+      "theory_section": "Designer practice, inspiration and signature",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        69
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m03s02",
+      "route": "../../modules/module-03.html#m03s02-theory",
+      "theory_section": "Internal and external success factors",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        70
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m03s03",
+      "route": "../../modules/module-03.html#m03s03-theory",
+      "theory_section": "The relationship between designers and trends",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        71
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m04s01",
+      "route": "../../modules/module-04.html#m04s01-theory",
+      "theory_section": "Colour principles for a specific end use",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        73
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m04s02",
+      "route": "../../modules/module-04.html#m04s02-theory",
+      "theory_section": "Printing and dyeing processes",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        74
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m04s03",
+      "route": "../../modules/module-04.html#m04s03-theory",
+      "theory_section": "Planning controlled colouration evidence",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        75
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m05s01",
+      "route": "../../modules/module-05.html#m05s01-theory",
+      "theory_section": "Appliqué, embroidery and surface decoration",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        77
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m05s02",
+      "route": "../../modules/module-05.html#m05s02-theory",
+      "theory_section": "Hand and machine technique decisions",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        78
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m05s03",
+      "route": "../../modules/module-05.html#m05s03-theory",
+      "theory_section": "Comparing and evaluating samples",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        80
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m06s01",
+      "route": "../../modules/module-06.html#m06s01-theory",
+      "theory_section": "Cultural context and respectful evidence",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        81
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m06s02",
+      "route": "../../modules/module-06.html#m06s02-theory",
+      "theory_section": "Meanings, resources, skills and processes",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        82
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m06s03",
+      "route": "../../modules/module-06.html#m06s03-theory",
+      "theory_section": "Design influence without appropriation",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        83
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m07s01",
+      "route": "../../modules/module-07.html#m07s01-theory",
+      "theory_section": "Generating ideas and choosing a final direction",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        85
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m07s02",
+      "route": "../../modules/module-07.html#m07s02-theory",
+      "theory_section": "Functional and aesthetic analysis",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        86
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m07s03",
+      "route": "../../modules/module-07.html#m07s03-theory",
+      "theory_section": "Drawings, specifications and time planning",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        87
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m08s01",
+      "route": "../../modules/module-08.html#m08s01-theory",
+      "theory_section": "Building a fair and useful investigation",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        89
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m08s02",
+      "route": "../../modules/module-08.html#m08s02-theory",
+      "theory_section": "Recording samples, observations and results",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        90
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m08s03",
+      "route": "../../modules/module-08.html#m08s03-theory",
+      "theory_section": "Evaluation and justified design change",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        91
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m09s01",
+      "route": "../../modules/module-09.html#m09s01-theory",
+      "theory_section": "Innovation definitions, needs and drivers",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        93
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m09s02",
+      "route": "../../modules/module-09.html#m09s02-theory",
+      "theory_section": "Emerging fibres, yarns and fabrics",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        94
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m09s03",
+      "route": "../../modules/module-09.html#m09s03-theory",
+      "theory_section": "Product, process and societal impacts",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        95
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m10s01",
+      "route": "../../modules/module-10.html#m10s01-theory",
+      "theory_section": "Microfibres, bicomponent yarns and washable webs",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        97
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m10s02",
+      "route": "../../modules/module-10.html#m10s02-theory",
+      "theory_section": "Revising structure–property relationships",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        98
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m10s03",
+      "route": "../../modules/module-10.html#m10s03-theory",
+      "theory_section": "Selecting performance for end use",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        99
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m11s01",
+      "route": "../../modules/module-11.html#m11s01-theory",
+      "theory_section": "Machinery and production technologies",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        101
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m11s02",
+      "route": "../../modules/module-11.html#m11s02-theory",
+      "theory_section": "Seamless technology and construction change",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        102
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m11s03",
+      "route": "../../modules/module-11.html#m11s03-theory",
+      "theory_section": "Decorative enhancement, efficiency and quality",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        103
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m12s01",
+      "route": "../../modules/module-12.html#m12s01-theory",
+      "theory_section": "Defining end-use requirements",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        105
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m12s02",
+      "route": "../../modules/module-12.html#m12s02-theory",
+      "theory_section": "Finishes, performance and care",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        106
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m12s03",
+      "route": "../../modules/module-12.html#m12s03-theory",
+      "theory_section": "Evidence-based fibre, yarn and fabric justification",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        107
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m13s01",
+      "route": "../../modules/module-13.html#m13s01-theory",
+      "theory_section": "Industry sectors and supply relationships",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        109
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m13s02",
+      "route": "../../modules/module-13.html#m13s02-theory",
+      "theory_section": "Marketplace, product development and marketing",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        110
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m13s03",
+      "route": "../../modules/module-13.html#m13s03-theory",
+      "theory_section": "Workplace, consumer and global links",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        111
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m14s01",
+      "route": "../../modules/module-14.html#m14s01-theory",
+      "theory_section": "Appropriate textile technology",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        113
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m14s02",
+      "route": "../../modules/module-14.html#m14s02-theory",
+      "theory_section": "Environmental sustainability across a product life cycle",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        114
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m14s03",
+      "route": "../../modules/module-14.html#m14s03-theory",
+      "theory_section": "Analysing social, consumer and industry issues",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        115
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m15s01",
+      "route": "../../modules/module-15.html#m15s01-theory",
+      "theory_section": "MTP completion and evidence handoff",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        117
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m15s02",
+      "route": "../../modules/module-15.html#m15s02-theory",
+      "theory_section": "Command terms and response planning",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        118
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "hsc-m15s03",
+      "route": "../../modules/module-15.html#m15s03-theory",
+      "theory_section": "Whole-course synthesis and revision",
+      "quiz_or_check": "Check your understanding",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        119
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question knowledge check, one saved scaffolded response and one concept-linked applied learning activity.",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "routes": [
+    {
+      "destination": "activities/module-01-design-analysis.html",
+      "purpose": "Module 1 design-analysis activity",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html",
+      "purpose": "Student folio and course evidence",
+      "audience": "student",
+      "period_numbers": [
+        60
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u1-01",
+      "purpose": "Folio Card 1",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        4
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u1-02",
+      "purpose": "Folio Card 2",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        3,
+        4
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u1-03",
+      "purpose": "Folio Card 3",
+      "audience": "student",
+      "period_numbers": [
+        8,
+        10,
+        15,
+        16,
+        17
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u1-04",
+      "purpose": "Folio Card 4",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12,
+        18,
+        19
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u1-05",
+      "purpose": "Folio Card 5",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u1-06",
+      "purpose": "Folio Card 6",
+      "audience": "student",
+      "period_numbers": [
+        21,
+        22
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u2-01",
+      "purpose": "Folio Card 7",
+      "audience": "student",
+      "period_numbers": [
+        26,
+        30,
+        34,
+        38,
+        42
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u2-02",
+      "purpose": "Folio Card 9",
+      "audience": "student",
+      "period_numbers": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u2-tests-01",
+      "purpose": "Folio Card 8",
+      "audience": "student",
+      "period_numbers": [
+        45,
+        46,
+        47
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "folio.html#folio-u3-01",
+      "purpose": "Folio Card 10",
+      "audience": "student",
+      "period_numbers": [
+        53,
+        56
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-01.html",
+      "purpose": "Module 1 learning route",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-01.html#m01-s01",
+      "purpose": "Module 1 design requirements section",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-01.html#m01-s02",
+      "purpose": "Module 1 elements section",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-01.html#m01-s03",
+      "purpose": "Module 1 principles section",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-02.html",
+      "purpose": "Module 2 learning route",
+      "audience": "student",
+      "period_numbers": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-02.html#m02-s01",
+      "purpose": "Focus areas and design types learning section",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-02.html#m02-s02",
+      "purpose": "Factors affecting design learning section",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-02.html#m02-s03",
+      "purpose": "Inspiration and design development learning section",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-03.html",
+      "purpose": "Module 3 learning route",
+      "audience": "student",
+      "period_numbers": [
+        9,
+        10
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-03.html#m03-s01",
+      "purpose": "Manufacturing methods learning section",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-03.html#m03-s02",
+      "purpose": "Commercial pattern information learning section",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-03.html#m03-s03",
+      "purpose": "Planning and quality checkpoints learning section",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-04.html",
+      "purpose": "Module 4 learning route",
+      "audience": "student",
+      "period_numbers": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-04.html#m04-s01",
+      "purpose": "Drawing and annotation learning section",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-04.html#m04-s02",
+      "purpose": "Production communication learning section",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-04.html#m04-s03",
+      "purpose": "Digital and presentation methods learning section",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-05.html",
+      "purpose": "Module 5 learning route",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-05.html#m05-s01",
+      "purpose": "Design refinement learning section",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-05.html#m05-s02",
+      "purpose": "Project management learning section",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-05.html#m05-s03",
+      "purpose": "Evaluation and folio evidence learning section",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-06.html",
+      "purpose": "Module 6 learning route",
+      "audience": "student",
+      "period_numbers": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-06.html#m06-s01",
+      "purpose": "Fibre classification learning section",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-06.html#m06-s02",
+      "purpose": "Molecular and morphological structure learning section",
+      "audience": "student",
+      "period_numbers": [
+        24
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-06.html#m06-s03",
+      "purpose": "From fibre to textile learning section",
+      "audience": "student",
+      "period_numbers": [
+        25
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-07.html",
+      "purpose": "Module 7 learning route",
+      "audience": "student",
+      "period_numbers": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-07.html#m07-s01",
+      "purpose": "Natural cellulosic fibres learning section",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-07.html#m07-s02",
+      "purpose": "Natural protein fibres learning section",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-07.html#m07-s03",
+      "purpose": "Regenerated, synthetic and blended fibres learning section",
+      "audience": "student",
+      "period_numbers": [
+        29
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-08.html",
+      "purpose": "Module 8 learning route",
+      "audience": "student",
+      "period_numbers": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-08.html#m08-s01",
+      "purpose": "Staple-spun and filament yarns learning section",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-08.html#m08-s02",
+      "purpose": "Twist and spinning systems learning section",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-08.html#m08-s03",
+      "purpose": "Textured and novelty yarns learning section",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-09.html",
+      "purpose": "Module 9 learning route",
+      "audience": "student",
+      "period_numbers": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-09.html#m09-s01",
+      "purpose": "Yarn characteristics learning section",
+      "audience": "student",
+      "period_numbers": [
+        35
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-09.html#m09-s02",
+      "purpose": "Structure-property relationships learning section",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-09.html#m09-s03",
+      "purpose": "End-use justification learning section",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-10.html",
+      "purpose": "Module 10 learning route",
+      "audience": "student",
+      "period_numbers": [
+        39,
+        40,
+        41
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-10.html#m10-s01",
+      "purpose": "Woven structures learning section",
+      "audience": "student",
+      "period_numbers": [
+        39
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-10.html#m10-s02",
+      "purpose": "Knitted structures learning section",
+      "audience": "student",
+      "period_numbers": [
+        40
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-10.html#m10-s03",
+      "purpose": "Non-woven structures learning section",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-11.html",
+      "purpose": "Module 11 learning route",
+      "audience": "student",
+      "period_numbers": [
+        43,
+        44,
+        45
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-11.html#m11-s01",
+      "purpose": "Properties and end use learning section",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-11.html#m11-s02",
+      "purpose": "Planning a fair textile test learning section",
+      "audience": "student",
+      "period_numbers": [
+        44
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-11.html#m11-s03",
+      "purpose": "Recording and interpreting results learning section",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-12.html",
+      "purpose": "Module 12 learning route",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-12.html#m12-s01",
+      "purpose": "Analysing experimental evidence learning section",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-12.html#m12-s02",
+      "purpose": "Fabric selection and design learning section",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-12.html#m12-s03",
+      "purpose": "Project evidence and evaluation learning section",
+      "audience": "student",
+      "period_numbers": [
+        49
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-13.html",
+      "purpose": "Module 13 learning route",
+      "audience": "student",
+      "period_numbers": [
+        51,
+        52,
+        53
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-13.html#m13-s01",
+      "purpose": "Industry development and sectors learning section",
+      "audience": "student",
+      "period_numbers": [
+        51
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-13.html#m13-s02",
+      "purpose": "Local and global context learning section",
+      "audience": "student",
+      "period_numbers": [
+        52
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-13.html#m13-s03",
+      "purpose": "Careers and training learning section",
+      "audience": "student",
+      "period_numbers": [
+        53
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-14.html",
+      "purpose": "Module 14 learning route",
+      "audience": "student",
+      "period_numbers": [
+        54,
+        55,
+        56
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-14.html#m14-s01",
+      "purpose": "Quality assurance and control learning section",
+      "audience": "student",
+      "period_numbers": [
+        54
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-14.html#m14-s02",
+      "purpose": "Manufacturer and consumer roles learning section",
+      "audience": "student",
+      "period_numbers": [
+        55
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-14.html#m14-s03",
+      "purpose": "Perceived, cultural and economic value learning section",
+      "audience": "student",
+      "period_numbers": [
+        56
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-15.html",
+      "purpose": "Module 15 learning route",
+      "audience": "student",
+      "period_numbers": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-15.html#m15-s01",
+      "purpose": "Knowledge retrieval learning section",
+      "audience": "student",
+      "period_numbers": [
+        57
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-15.html#m15-s02",
+      "purpose": "Command terms and response planning learning section",
+      "audience": "student",
+      "period_numbers": [
+        58
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "modules/module-15.html#m15-s03",
+      "purpose": "Course synthesis learning section",
+      "audience": "student",
+      "period_numbers": [
+        59
+      ],
+      "site_scope": "Accepted Year 11 public course"
+    },
+    {
+      "destination": "../../assessment.html",
+      "purpose": "Assessment orientation; current formal details remain Teacher to confirm",
+      "audience": "student",
+      "period_numbers": [
+        108,
+        118,
+        119,
+        120
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-01",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        61
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-02",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        62,
+        63,
+        64
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-03",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        67,
+        68,
+        71,
+        72,
+        82,
+        83,
+        84
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-04",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        85
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-05",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        86
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-06",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        87,
+        88
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-07",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        75,
+        76,
+        79,
+        80,
+        89,
+        90,
+        91,
+        92,
+        95,
+        96,
+        99,
+        100
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-08",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        103,
+        104
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-09",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        111,
+        112,
+        115,
+        116
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../folio.html#folio-10",
+      "purpose": "Student folio and Major Textiles Project evidence",
+      "audience": "student",
+      "period_numbers": [
+        117,
+        120
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-01.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        64
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-01.html#m01s01-theory",
+      "purpose": "The HSC course map and two-year bridge: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        61
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-01.html#m01s02-theory",
+      "purpose": "MTP focus areas, requirements and evidence: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        62
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-01.html#m01s03-theory",
+      "purpose": "From design inspiration to a workable brief: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        63
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-02.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        68
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-02.html#m02s01-theory",
+      "purpose": "Tracing one focus area over time: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        65
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-02.html#m02s02-theory",
+      "purpose": "Factors that shape design change: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        66
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-02.html#m02s03-theory",
+      "purpose": "Turning historical evidence into analysis: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        67
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-03.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        72
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-03.html#m03s01-theory",
+      "purpose": "Designer practice, inspiration and signature: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        69
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-03.html#m03s02-theory",
+      "purpose": "Internal and external success factors: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        70
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-03.html#m03s03-theory",
+      "purpose": "The relationship between designers and trends: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        71
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-04.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        76
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-04.html#m04s01-theory",
+      "purpose": "Colour principles for a specific end use: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        73
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-04.html#m04s02-theory",
+      "purpose": "Printing and dyeing processes: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        74
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-04.html#m04s03-theory",
+      "purpose": "Planning controlled colouration evidence: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        75
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-05.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        79
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-05.html#m05s01-theory",
+      "purpose": "Appliqué, embroidery and surface decoration: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        77
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-05.html#m05s02-theory",
+      "purpose": "Hand and machine technique decisions: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        78
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-05.html#m05s03-theory",
+      "purpose": "Comparing and evaluating samples: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        80
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-06.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        84
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-06.html#m06s01-theory",
+      "purpose": "Cultural context and respectful evidence: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        81
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-06.html#m06s02-theory",
+      "purpose": "Meanings, resources, skills and processes: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        82
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-06.html#m06s03-theory",
+      "purpose": "Design influence without appropriation: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        83
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-07.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        88
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-07.html#m07s01-theory",
+      "purpose": "Generating ideas and choosing a final direction: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        85
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-07.html#m07s02-theory",
+      "purpose": "Functional and aesthetic analysis: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        86
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-07.html#m07s03-theory",
+      "purpose": "Drawings, specifications and time planning: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        87
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-08.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        92
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-08.html#m08s01-theory",
+      "purpose": "Building a fair and useful investigation: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        89
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-08.html#m08s02-theory",
+      "purpose": "Recording samples, observations and results: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        90
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-08.html#m08s03-theory",
+      "purpose": "Evaluation and justified design change: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        91
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-09.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        96
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-09.html#m09s01-theory",
+      "purpose": "Innovation definitions, needs and drivers: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        93
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-09.html#m09s02-theory",
+      "purpose": "Emerging fibres, yarns and fabrics: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        94
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-09.html#m09s03-theory",
+      "purpose": "Product, process and societal impacts: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        95
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-10.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        100
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-10.html#m10s01-theory",
+      "purpose": "Microfibres, bicomponent yarns and washable webs: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        97
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-10.html#m10s02-theory",
+      "purpose": "Revising structure–property relationships: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        98
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-10.html#m10s03-theory",
+      "purpose": "Selecting performance for end use: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        99
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-11.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        104
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-11.html#m11s01-theory",
+      "purpose": "Machinery and production technologies: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        101
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-11.html#m11s02-theory",
+      "purpose": "Seamless technology and construction change: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        102
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-11.html#m11s03-theory",
+      "purpose": "Decorative enhancement, efficiency and quality: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        103
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-12.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        108
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-12.html#m12s01-theory",
+      "purpose": "Defining end-use requirements: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        105
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-12.html#m12s02-theory",
+      "purpose": "Finishes, performance and care: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        106
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-12.html#m12s03-theory",
+      "purpose": "Evidence-based fibre, yarn and fabric justification: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        107
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-13.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        112
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-13.html#m13s01-theory",
+      "purpose": "Industry sectors and supply relationships: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        109
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-13.html#m13s02-theory",
+      "purpose": "Marketplace, product development and marketing: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        110
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-13.html#m13s03-theory",
+      "purpose": "Workplace, consumer and global links: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        111
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-14.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        116
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-14.html#m14s01-theory",
+      "purpose": "Appropriate textile technology: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        113
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-14.html#m14s02-theory",
+      "purpose": "Environmental sustainability across a product life cycle: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        114
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-14.html#m14s03-theory",
+      "purpose": "Analysing social, consumer and industry issues: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        115
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-15.html",
+      "purpose": "Module overview and connected learning evidence",
+      "audience": "student",
+      "period_numbers": [
+        120
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-15.html#m15s01-theory",
+      "purpose": "MTP completion and evidence handoff: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        117
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-15.html#m15s02-theory",
+      "purpose": "Command terms and response planning: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        118
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    },
+    {
+      "destination": "../../modules/module-15.html#m15s03-theory",
+      "purpose": "Whole-course synthesis and revision: theory, knowledge check and saved response",
+      "audience": "student",
+      "period_numbers": [
+        119
+      ],
+      "site_scope": "Year 12 local course, qualified relative to the programme directory"
+    }
+  ]
+}
