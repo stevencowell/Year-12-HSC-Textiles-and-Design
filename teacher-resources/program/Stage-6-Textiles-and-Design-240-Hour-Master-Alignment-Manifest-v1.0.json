@@ -7632,15 +7632,16 @@
       "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Programme-v1.0.docx",
       "purpose": "editable-program",
       "version": "v1.0",
-      "bytes": 53741,
-      "sha256": "0e103372a121ea2301a00220d7194d5b6e9964883a3b54799fe63f046c5817b0"
+      "bytes": 53718,
+      "sha256": "5d923f92029ffb53abe4f0a464814265f4bd48ab5e8925202e4cbba098feb37a"
     },
     {
       "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Programme-v1.0.pdf",
       "purpose": "rendered-program",
       "version": "v1.0",
-      "bytes": 432770,
-      "sha256": "1e860f299020657dfa92ea28a61efdaed5a6dd40cdf1dfcb690f5d9252c8cff3"
+      "bytes": 439592,
+      "sha256": "91c57a7bca1da0dcb7083c36bee1bb3f0f0fff4500a0a6644eb1628968c0b27f",
+      "pages": 24
     },
     {
       "path": "Stage-6-Textiles-and-Design-240-Hour-Master-Alignment-Manifest-v1.0.json",

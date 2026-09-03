@@ -56,17 +56,17 @@
     {
       "role": "editable-program",
       "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Teaching-Programme-v1.0.docx",
-      "sha256": "653a9f8037e62d4482942c51ac2f748ab72e6152b2d779b2576e46457c4a7f3c"
+      "sha256": "56d6ba18525d2bc13f14e6650f5f83a477507c42be329a681e6d26a36ce9fccf"
     },
     {
       "role": "rendered-program",
       "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Teaching-Programme-v1.0.pdf",
-      "sha256": "5393c8b57109b320f50a2fc65703560978f7f3b92048195e6a832987888cdf07"
+      "sha256": "a601f7937e45cab240c0adceb7640983bc80a6d5927f78b4df3525ae2d7d2a50"
     },
     {
       "role": "alignment-manifest",
       "path": "Year-12-HSC-Textiles-and-Design-120-Hour-Alignment-Manifest-v1.0.json",
-      "sha256": "7ade41507758e4a669e61fde5c17dd0693fc49c4b6b0dd35dcffa59c3791fbc3"
+      "sha256": "2c3e96ad35384b836a3a2bef84508dd333b870f189acb8ddd70e14a0580e37b5"
     },
     {
       "role": "site-map",
